@@ -1,0 +1,20 @@
+/* The chat is an overlay drawer; closing it returns the whole workspace width. */
+.dark-console .main{margin-right:0!important;padding-bottom:0!important}
+.dark-console main{padding-right:58px}
+.copilot-launcher{position:fixed;right:0;top:42%;z-index:35;display:flex;align-items:center;gap:12px;writing-mode:vertical-rl;border:1px solid #4d807f;border-right:0;border-radius:10px 0 0 10px;background:#23454b;color:#c1eee7;padding:16px 11px;box-shadow:-5px 4px 18px #06131b44;font-size:11px;letter-spacing:.3px}
+.copilot-launcher>i{width:5px;height:5px;background:#7ce0c3;border-radius:50%;box-shadow:0 0 8px #7ce0c333}.copilot-launcher:hover{background:#30636a}.copilot-drawer.is-open .copilot-launcher{visibility:hidden}
+.copilot-panel{position:fixed;inset:0 0 0 auto;width:min(420px,100vw);height:100dvh;z-index:50;transform:translateX(105%);transition:transform .24s ease,visibility 0s linear .24s;visibility:hidden;box-shadow:-12px 0 40px #050f1966}
+.copilot-drawer.is-open .copilot-panel{transform:translateX(0);visibility:visible;transition:transform .24s ease,visibility 0s}
+.copilot-backdrop{position:fixed;inset:0;z-index:40;background:#07111b88;border:0;padding:0;cursor:default;backdrop-filter:blur(2px)}
+.dark-console .copilot-panel .global-chat{position:absolute;inset:0;width:100%;height:100%;max-height:none;z-index:20;border:0;border-left:1px solid #36505f;border-radius:0;margin:0;box-shadow:none}
+.copilot-close{position:absolute;right:16px;top:22px;z-index:25;display:grid;place-items:center;width:32px;height:32px;border:1px solid #3d596a;border-radius:5px;background:#213b4b;color:#a8cbd9}
+.copilot-close:hover{background:#305569}.dark-console .copilot-panel .chat-heading{padding-right:62px;min-height:77px}.dark-console .copilot-panel .chat-heading .pill{display:none}
+.dark-console .copilot-panel .chat-context{padding:13px 16px}.dark-console .copilot-panel .chat-context>span{display:block;font-size:10px}
+.dark-console .copilot-panel .issue-chat-picker{display:block;font-size:10px;margin:0}.dark-console .copilot-panel .issue-chat-picker select{display:block;width:100%;margin:8px 0 0;font-size:10px;padding:9px}
+.dark-console .copilot-panel .chat-messages{flex:1 1 auto;min-height:80px;overflow-y:auto;overscroll-behavior:contain}
+.dark-console .copilot-panel .chat-heading small{display:block}
+.role-chat-suggestions{display:flex;gap:7px;flex-wrap:wrap;padding:13px 15px;border-top:1px solid #2c4656;flex-shrink:0}
+.role-chat-suggestions button{background:#203b48;border:1px solid #365b69;color:#a5cdd2;font-size:10px;padding:9px 10px;border-radius:5px}.role-chat-suggestions button:hover{background:#2b505a}
+.role-chat-proposal{font-size:10px;line-height:1.9;padding:13px 15px;background:#203d40;border-top:1px solid #3c6261;color:#a6d8cc;flex-shrink:0}.role-chat-proposal button{display:block;border:0;background:none;text-decoration:underline;color:#b6e5d5;padding:6px 0 0;font-size:10px}
+@media(max-width:760px){.dark-console main{padding-right:12px}.dark-console .copilot-panel .global-chat{height:100dvh}.copilot-launcher{writing-mode:horizontal-tb;top:auto;bottom:20px;right:16px;border:1px solid #4d807f;border-radius:50%;width:51px;height:51px;justify-content:center;padding:0}.copilot-launcher>span,.copilot-launcher>svg:first-child,.copilot-launcher>i{display:none}.dark-console .copilot-panel .chat-heading{min-height:70px;padding:14px 62px 14px 17px}.dark-console .copilot-panel .bot-icon{height:35px;width:35px}.dark-console .copilot-panel .chat-messages{padding:15px}.dark-console .copilot-panel .chat-messages .assistant-message{padding:13px;margin-bottom:14px}.dark-console .copilot-panel .chat-context{padding:12px 15px}.dark-console .copilot-panel .chat-context>span{display:block}.role-chat-suggestions{padding:12px}.role-chat-suggestions button{font-size:9px;padding:8px}.dark-console .copilot-panel .chat-disclaimer{padding:10px}.dark-console .copilot-panel .chat form{margin:0 14px 6px}.copilot-close{top:19px}}
+@media(prefers-reduced-motion:reduce){.copilot-panel{transition:none}}
