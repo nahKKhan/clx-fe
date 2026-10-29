@@ -2,6 +2,18 @@
 
 울산 CLX 회전기계 설비 모니터링·진단·정비 업무를 연결하는 프론트엔드 프로토타입입니다. React와 Vite를 사용하며, 엔지니어·정비 담당자·설비 관리 부서의 작업 흐름을 제공합니다.
 
+## 웹에서 접속
+
+GitHub Pages 주소: https://nahkkhan.github.io/clx-fe/
+
+- [엔지니어 화면](https://nahkkhan.github.io/clx-fe/#engineer)
+- [정비 담당자 화면](https://nahkkhan.github.io/clx-fe/#maintenance)
+- [설비 관리 부서 화면](https://nahkkhan.github.io/clx-fe/#manager)
+
+main 브랜치에 푸시하면 GitHub Actions가 빌드 후 GitHub Pages에 자동 배포합니다. 배포 상태는 저장소의 Actions 탭에서 확인할 수 있습니다.
+
+프로덕션 빌드는 /clx-fe/ 경로를 사용합니다. 로컬 개발 주소는 기존처럼 /이고, npm run preview는 /clx-fe/에서 빌드 결과를 제공합니다.
+
 ## 로컬 실행
 
 Node.js 22.12 이상과 npm이 필요합니다.
