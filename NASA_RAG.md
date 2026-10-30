@@ -1,21 +1,14 @@
-# NASA · RAG 분석 추가
+# GitHub Pages용 NASA · RAG 분석
 
-기존 역할별 업무 화면과 업무 로직은 유지합니다. 사이드바 NASA · RAG 분석에서 측정 시점 선택 후 분석 버튼을 누르세요. 기준 구간/임계값 이하에서는 문서 검색을 생략합니다. 초과 시에는 베어링 매뉴얼의 점검 근거를 표시합니다. 하단 자유 질문은 CLP 펌프 매뉴얼 검색입니다. LLM 없이 실행됩니다.
+화면의 시점 분석과 자유 질문은 이제 브라우저에서 실행됩니다. Python 서버나 API 주소 설정이 필요 없습니다.
 
-## 실행
-프로젝트 폴더에서:
 ```sh
-python3 -m venv .venv
-.venv/bin/pip install -r requirements-analysis.txt
-.venv/bin/python -m uvicorn rag.server:app --host 127.0.0.1 --port 8012
-```
-다른 터미널:
-```sh
-npm install
+npm ci
 npm run dev
+# 배포 파일 생성
+npm run build
 ```
-현재 Mac에서는 기존 `/Users/changwoo/Downloads/skf_rag_mvp/.venv/bin/python`을 Python 실행 경로로 사용할 수도 있습니다.
 
-기존 `/clx-fe/` 배포 경로를 보존했습니다. GitHub Pages 같은 정적 호스팅에서는 그래프는 표시되지만 Python 검색 API는 실행되지 않습니다. 배포 시 별도 API 서버와 `/api` 프록시가 필요합니다.
+브라우저는 public/rag/corpus.json의 문서를 한국어-영어 질의 확장 + 단어 TF-IDF 코사인 유사도로 검색합니다. Python의 단어/문자 혼합 검색과 순위·점수가 다를 수 있습니다. 답변은 검토한 문서 요약이며 LLM은 사용하지 않습니다. 기준 구간/임계값 이하에서는 검색을 생략합니다. RMS만으로 원인 순위를 결정하지 않습니다.
 
-포함 자료: IMS 2nd_test 채널 1의 984개 파일에서 미리 계산한 RMS 결과 JSON, SKF CLP Touch 매뉴얼, SKF Bearing Damage and Failure Analysis 매뉴얼과 검색 코드. 대용량 원본 진동 파일은 중복 복사하지 않았습니다. 점검 후보는 검토된 4개 원인군이며 RMS만으로 원인 우선순위를 구분하지 않습니다.
+PDF 원문은 public/rag/clp.pdf 및 bearing.pdf로 제공되며 기존 /clx-fe/ 배포 경로를 지원합니다. public/rag/corpus.json은 현재 문서와 IMS 분석 결과의 정적 사본입니다. 문서 또는 측정 결과를 변경하면 이 사본도 갱신해야 합니다. rag/ Python 코드는 이전 로컬 실행 참고용으로 보존됩니다.

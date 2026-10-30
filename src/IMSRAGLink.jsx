@@ -1,3 +1,4 @@
+import { analyzeSnapshot, manualUrl } from './browserRag';
 import {useEffect,useRef,useState} from 'react';
 export default function IMSRAGLink({index,row}){
  const [result,setResult]=useState(null),[busy,setBusy]=useState(false),[error,setError]=useState('');
@@ -6,7 +7,7 @@ export default function IMSRAGLink({index,row}){
  async function analyze(){
   const c=new AbortController();request.current=c;setBusy(true);setError('');setResult(null);
   const timer=setTimeout(()=>c.abort(),30000);
-  try{const r=await fetch('/api/ims/analyze',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({index}),signal:c.signal});if(!r.ok)throw Error('분석 서버 연결 또는 데이터 확인에 실패했습니다. 다시 시도하세요.');setResult(await r.json())}catch(e){if(!c.signal.aborted)setError(e.message);else setError('검색이 취소되었거나 시간이 초과되었습니다.')}finally{clearTimeout(timer);setBusy(false)}
+  try{setResult(await analyzeSnapshot(index,c.signal))}catch(e){if(!c.signal.aborted)setError(e.message);else setError('검색이 취소되었거나 시간이 초과되었습니다.')}finally{clearTimeout(timer);setBusy(false)}
  }
  const percent=v=>v===null?'비교 데이터 없음':`${v>0?'+':''}${v.toFixed(2)}%`;
  const o=result?.observation;
@@ -29,7 +30,7 @@ export default function IMSRAGLink({index,row}){
    <div className="review-cards">{result.guidance?.map(g=><article className="review-card" key={g.source_id}>
     <h4>{g.title}</h4><span className="review-card-label">확인할 항목 · 조건부 조치</span>
     <ul>{g.text.split(/(?<=\.)\s+/).filter(Boolean).map((sentence,i)=><li key={i}>{sentence}</li>)}</ul>
-    <div className="review-citations"><a href="/api/bearing-manual.pdf#page=12" target="_blank" rel="noreferrer">증상표 p.12 ↗</a>{g.action_pages.map(p=><a key={p} href={'/api/bearing-manual.pdf#page='+p} target="_blank" rel="noreferrer">조치 p.{p} ↗</a>)}</div>
+    <div className="review-citations"><a href={manualUrl(true,12)} target="_blank" rel="noreferrer">증상표 p.12 ↗</a>{g.action_pages.map(p=><a key={p} href={manualUrl(true,p)} target="_blank" rel="noreferrer">조치 p.{p} ↗</a>)}</div>
     <small className="review-code">매뉴얼 해결 코드 {g.codes.join(', ')}</small>
    </article>)}</div></>}
    <div className="review-limits"><strong>판단 범위와 다음 확인</strong><p>{result.limitation}</p></div>
