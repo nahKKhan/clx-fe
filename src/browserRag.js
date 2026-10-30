@@ -3,7 +3,7 @@ const base = import.meta.env?.BASE_URL || '/';
 export const manualUrl = (bearing=false,page=1) => `${base}rag/${bearing?'bearing':'clp'}.pdf#page=${page}`;
 let cached;
 async function corpus(signal){
- if(!cached){const r=await fetch(`${base}rag/corpus.json`,{signal});if(!r.ok)throw Error('검색 문서를 불러오지 못했습니다. 새로고침 후 다시 시도하세요.');cached=await r.json();}
+ if(!cached){const r=await fetch(`${base}rag/corpus.json`,{signal,cache:'no-cache'});if(!r.ok)throw Error('검색 문서를 불러오지 못했습니다. 새로고침 후 다시 시도하세요.');cached=await r.json();}
  signal?.throwIfAborted();return cached;
 }
 function terms(text){return text.toLowerCase().match(/[\p{L}\p{N}]+/gu)||[];}
