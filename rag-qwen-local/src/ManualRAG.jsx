@@ -1,0 +1,16 @@
+import { useEffect, useRef, useState } from 'react';
+import './ManualRAG.css';
+import EvidenceAnswer from './EvidenceAnswer';
+const examples=['가상의 CLP Touch 펌프 온도가 72°C입니다. 매뉴얼의 공장 설정을 기준으로 무엇을 확인해야 하나요?', '펌프가 작동하지 않는 원인은 무엇인가요?','펌프 온도가 허용 최고 온도를 넘으면 어떻게 하나요?','사이클 스위치 신호가 부족하면 어떻게 하나요?','압축기 진동 경보 기준은 무엇인가요?'];
+export default function ManualRAG(){
+ const [question,setQuestion]=useState(''),[document,setDocument]=useState('clp'),[result,setResult]=useState(null),[busy,setBusy]=useState(false),[error,setError]=useState('');
+ const active=useRef(null);
+ useEffect(()=>()=>active.current?.abort(),[]);
+ async function ask(e){
+  e.preventDefault();if(question.trim().length<2||busy)return;
+  const controller=new AbortController();active.current=controller;setBusy(true);setError('');setResult(null);
+  const timeout=setTimeout(()=>controller.abort(),130000);
+  try{const r=await fetch('/api/ask',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({question:question.trim(),top_k:5,document}),signal:controller.signal});if(!r.ok){const data=await r.json().catch(()=>({}));throw Error(data.detail||'매뉴얼 검색 서버에 연결할 수 없습니다.');}const data=await r.json();setResult(data)}catch(e){setError(e.name==='AbortError'?'검색 시간이 초과되었습니다. 다시 시도하세요.':e.message)}finally{clearTimeout(timeout);setBusy(false)}
+ }
+ return <section className="box manual-rag" id="manual-rag"><div className="section-head"><h2>SKF 매뉴얼 질문</h2><span className="pill">실제 문서 검색</span></div><p>한국어 질문 → 영문 매뉴얼 검색 → 근거 기반 답변 + 페이지 출처</p><p className="hint">선택한 문서의 적용 대상과 실제 설비가 일치하는지 확인하세요.</p><label htmlFor="manual-document">검색할 문서</label><select id="manual-document" value={document} disabled={busy} onChange={e=>{setDocument(e.target.value);setResult(null)}}><option value="clp">SKF CLP Touch 윤활 펌프</option><option value="bearing">SKF 베어링 손상 분석</option></select><div className="manual-examples">{(document==='bearing'?['베어링 진동이 과도할 때 가능한 원인과 점검 항목은 무엇인가요?', '윤활 불량으로 인한 베어링 손상은 어떻게 점검하나요?']:examples).map(q=><button key={q} disabled={busy} onClick={()=>setQuestion(q)}>{q}</button>)}</div><form onSubmit={ask}><label htmlFor="manual-question">매뉴얼에 질문하기</label><textarea id="manual-question" value={question} onChange={e=>setQuestion(e.target.value)} placeholder="예: 펌프가 작동하지 않는 원인은 무엇인가요?" maxLength={2000} disabled={busy}/><button className="primary" disabled={busy||question.trim().length<2}>{busy?'매뉴얼 검색 중…':'질문하기'}</button></form>{error&&<p role="alert">{error}</p>}<div aria-live="polite">{result&&<><h3>답변</h3><EvidenceAnswer text={result.answer}/><p className="hint">질문: {result.question}<br/>{result.document} · {result.version} · {result.answer_mode==='ollama'?'Ollama 근거 기반 생성':result.answer_mode==='scope-guard'?'문서 적용 범위 밖 · 답변 제한':'관련 문서 근거 없음'}</p><h3>검색된 근거 Top-{result.sources.length}</h3><p className="hint">유사도는 검색 점수이며 진단 신뢰도가 아닙니다.</p>{result.sources.map(s=><article className="manual-source" key={s.rank}><strong>#{s.rank} · p.{s.page} · {s.section}</strong><small>유사도 {s.score}</small><p>{s.text}</p><a href={s.pdf_link} target="_blank" rel="noreferrer">PDF p.{s.page} 원문 열기 ↗</a>{s.action_pages?.map(page=><span key={page}> · <a href={"/api/bearing-manual.pdf#page="+page} target="_blank" rel="noreferrer">조치 p.{page} ↗</a></span>)}</article>)}</>}</div></section>
+}
