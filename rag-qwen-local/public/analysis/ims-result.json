@@ -1,0 +1,7120 @@
+{
+  "channel": 0,
+  "baseline_count": 100,
+  "sigma": 3,
+  "mean": 0.07771480669122703,
+  "std": 0.0011882885257061882,
+  "threshold": 0.08127967226834559,
+  "rows": [
+    {
+      "timestamp": "2004.02.12.10.32.39",
+      "rms": 0.07417899856512623,
+      "samples": 20480,
+      "baseline": true,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.12.10.42.39",
+      "rms": 0.07538245681139528,
+      "samples": 20480,
+      "baseline": true,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.12.10.52.39",
+      "rms": 0.07622977446919937,
+      "samples": 20480,
+      "baseline": true,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.12.11.02.39",
+      "rms": 0.07872367646602974,
+      "samples": 20480,
+      "baseline": true,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.12.11.12.39",
+      "rms": 0.07847429073677968,
+      "samples": 20480,
+      "baseline": true,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.12.11.22.39",
+      "rms": 0.07831464139380723,
+      "samples": 20480,
+      "baseline": true,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.12.11.32.39",
+      "rms": 0.07863244325857172,
+      "samples": 20480,
+      "baseline": true,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.12.11.42.39",
+      "rms": 0.07777288022464836,
+      "samples": 20480,
+      "baseline": true,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.12.11.52.39",
+      "rms": 0.07902942984262255,
+      "samples": 20480,
+      "baseline": true,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.12.12.02.39",
+      "rms": 0.07571755989830314,
+      "samples": 20480,
+      "baseline": true,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.12.12.12.39",
+      "rms": 0.07924111648011797,
+      "samples": 20480,
+      "baseline": true,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.12.12.22.39",
+      "rms": 0.077638908086269,
+      "samples": 20480,
+      "baseline": true,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.12.12.32.39",
+      "rms": 0.07740458087623109,
+      "samples": 20480,
+      "baseline": true,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.12.12.42.39",
+      "rms": 0.07986468720103242,
+      "samples": 20480,
+      "baseline": true,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.12.12.52.39",
+      "rms": 0.07921698007145074,
+      "samples": 20480,
+      "baseline": true,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.12.13.02.39",
+      "rms": 0.07866177721938719,
+      "samples": 20480,
+      "baseline": true,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.12.13.12.39",
+      "rms": 0.07845338360094803,
+      "samples": 20480,
+      "baseline": true,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.12.13.22.39",
+      "rms": 0.07762277416041877,
+      "samples": 20480,
+      "baseline": true,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.12.13.32.39",
+      "rms": 0.07782555832949016,
+      "samples": 20480,
+      "baseline": true,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.12.13.42.39",
+      "rms": 0.07893316063389487,
+      "samples": 20480,
+      "baseline": true,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.12.13.52.39",
+      "rms": 0.07902854786058722,
+      "samples": 20480,
+      "baseline": true,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.12.14.02.39",
+      "rms": 0.07936328499916932,
+      "samples": 20480,
+      "baseline": true,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.12.14.12.39",
+      "rms": 0.07948672040475141,
+      "samples": 20480,
+      "baseline": true,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.12.14.22.39",
+      "rms": 0.07975294340914242,
+      "samples": 20480,
+      "baseline": true,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.12.14.32.39",
+      "rms": 0.07938138784581765,
+      "samples": 20480,
+      "baseline": true,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.12.14.42.39",
+      "rms": 0.07759187944533484,
+      "samples": 20480,
+      "baseline": true,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.12.14.52.39",
+      "rms": 0.07774099563514575,
+      "samples": 20480,
+      "baseline": true,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.12.15.02.39",
+      "rms": 0.07751394405806931,
+      "samples": 20480,
+      "baseline": true,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.12.15.12.39",
+      "rms": 0.07827954401833694,
+      "samples": 20480,
+      "baseline": true,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.12.15.22.39",
+      "rms": 0.07886118143611597,
+      "samples": 20480,
+      "baseline": true,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.12.15.32.39",
+      "rms": 0.07858236746600665,
+      "samples": 20480,
+      "baseline": true,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.12.15.42.39",
+      "rms": 0.08023091764702917,
+      "samples": 20480,
+      "baseline": true,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.12.15.52.39",
+      "rms": 0.07742107025313345,
+      "samples": 20480,
+      "baseline": true,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.12.16.02.39",
+      "rms": 0.07901612461528817,
+      "samples": 20480,
+      "baseline": true,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.12.16.12.39",
+      "rms": 0.07823475415576188,
+      "samples": 20480,
+      "baseline": true,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.12.16.22.39",
+      "rms": 0.07812870584960674,
+      "samples": 20480,
+      "baseline": true,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.12.16.32.39",
+      "rms": 0.07686189103169887,
+      "samples": 20480,
+      "baseline": true,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.12.16.42.39",
+      "rms": 0.07986518700725069,
+      "samples": 20480,
+      "baseline": true,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.12.16.52.39",
+      "rms": 0.07742917473155306,
+      "samples": 20480,
+      "baseline": true,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.12.17.02.39",
+      "rms": 0.0784612560514543,
+      "samples": 20480,
+      "baseline": true,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.12.17.12.39",
+      "rms": 0.0785959604559929,
+      "samples": 20480,
+      "baseline": true,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.12.17.22.39",
+      "rms": 0.07866142681365101,
+      "samples": 20480,
+      "baseline": true,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.12.17.32.39",
+      "rms": 0.07762854039078106,
+      "samples": 20480,
+      "baseline": true,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.12.17.42.39",
+      "rms": 0.07820874324224403,
+      "samples": 20480,
+      "baseline": true,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.12.17.52.39",
+      "rms": 0.07808856431612202,
+      "samples": 20480,
+      "baseline": true,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.12.18.02.39",
+      "rms": 0.07648226248359404,
+      "samples": 20480,
+      "baseline": true,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.12.18.12.39",
+      "rms": 0.07891327536794347,
+      "samples": 20480,
+      "baseline": true,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.12.18.22.39",
+      "rms": 0.07732266473953077,
+      "samples": 20480,
+      "baseline": true,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.12.18.32.39",
+      "rms": 0.07824754763529333,
+      "samples": 20480,
+      "baseline": true,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.12.18.42.39",
+      "rms": 0.0769698265505305,
+      "samples": 20480,
+      "baseline": true,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.12.18.52.39",
+      "rms": 0.07847964256337436,
+      "samples": 20480,
+      "baseline": true,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.12.19.02.39",
+      "rms": 0.07853956351488958,
+      "samples": 20480,
+      "baseline": true,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.12.19.12.39",
+      "rms": 0.07938090836770041,
+      "samples": 20480,
+      "baseline": true,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.12.19.22.39",
+      "rms": 0.07691333012919477,
+      "samples": 20480,
+      "baseline": true,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.12.19.32.39",
+      "rms": 0.07662792325938943,
+      "samples": 20480,
+      "baseline": true,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.12.19.42.39",
+      "rms": 0.07833920727505721,
+      "samples": 20480,
+      "baseline": true,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.12.19.52.39",
+      "rms": 0.07738031364276786,
+      "samples": 20480,
+      "baseline": true,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.12.20.02.39",
+      "rms": 0.07742347280137335,
+      "samples": 20480,
+      "baseline": true,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.12.20.12.39",
+      "rms": 0.07599751100981861,
+      "samples": 20480,
+      "baseline": true,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.12.20.22.39",
+      "rms": 0.07812885896719358,
+      "samples": 20480,
+      "baseline": true,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.12.20.32.39",
+      "rms": 0.0786632849704597,
+      "samples": 20480,
+      "baseline": true,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.12.20.42.39",
+      "rms": 0.07712632634090483,
+      "samples": 20480,
+      "baseline": true,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.12.20.52.39",
+      "rms": 0.07930147000233508,
+      "samples": 20480,
+      "baseline": true,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.12.21.02.39",
+      "rms": 0.0769426198413264,
+      "samples": 20480,
+      "baseline": true,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.12.21.12.39",
+      "rms": 0.0771994016001541,
+      "samples": 20480,
+      "baseline": true,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.12.21.22.39",
+      "rms": 0.07699636792620886,
+      "samples": 20480,
+      "baseline": true,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.12.21.32.39",
+      "rms": 0.0774460721521555,
+      "samples": 20480,
+      "baseline": true,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.12.21.42.39",
+      "rms": 0.07664165646604576,
+      "samples": 20480,
+      "baseline": true,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.12.21.52.39",
+      "rms": 0.07695564843578329,
+      "samples": 20480,
+      "baseline": true,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.12.22.02.39",
+      "rms": 0.0773247059887718,
+      "samples": 20480,
+      "baseline": true,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.12.22.12.39",
+      "rms": 0.07577292447823547,
+      "samples": 20480,
+      "baseline": true,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.12.22.22.39",
+      "rms": 0.07668913124793174,
+      "samples": 20480,
+      "baseline": true,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.12.22.32.39",
+      "rms": 0.07740031675131004,
+      "samples": 20480,
+      "baseline": true,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.12.22.42.39",
+      "rms": 0.07795509180220767,
+      "samples": 20480,
+      "baseline": true,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.12.22.52.39",
+      "rms": 0.07882041185009597,
+      "samples": 20480,
+      "baseline": true,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.12.23.02.39",
+      "rms": 0.07756062271096396,
+      "samples": 20480,
+      "baseline": true,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.12.23.12.39",
+      "rms": 0.07689052656973988,
+      "samples": 20480,
+      "baseline": true,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.12.23.22.39",
+      "rms": 0.07824627430976747,
+      "samples": 20480,
+      "baseline": true,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.12.23.32.39",
+      "rms": 0.07672532972039367,
+      "samples": 20480,
+      "baseline": true,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.12.23.42.39",
+      "rms": 0.07738254866499697,
+      "samples": 20480,
+      "baseline": true,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.12.23.52.39",
+      "rms": 0.07699061808712475,
+      "samples": 20480,
+      "baseline": true,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.13.00.02.39",
+      "rms": 0.07482262488921716,
+      "samples": 20480,
+      "baseline": true,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.13.00.12.39",
+      "rms": 0.07733855853789072,
+      "samples": 20480,
+      "baseline": true,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.13.00.22.39",
+      "rms": 0.0767939753394594,
+      "samples": 20480,
+      "baseline": true,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.13.00.32.39",
+      "rms": 0.077721765308917,
+      "samples": 20480,
+      "baseline": true,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.13.00.42.39",
+      "rms": 0.0773589786144157,
+      "samples": 20480,
+      "baseline": true,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.13.00.52.39",
+      "rms": 0.07689176995692955,
+      "samples": 20480,
+      "baseline": true,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.13.01.02.39",
+      "rms": 0.07492218065631082,
+      "samples": 20480,
+      "baseline": true,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.13.01.12.39",
+      "rms": 0.07763068115281484,
+      "samples": 20480,
+      "baseline": true,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.13.01.22.39",
+      "rms": 0.07778453061583003,
+      "samples": 20480,
+      "baseline": true,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.13.01.32.39",
+      "rms": 0.0785893111942354,
+      "samples": 20480,
+      "baseline": true,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.13.01.42.39",
+      "rms": 0.07599053317889341,
+      "samples": 20480,
+      "baseline": true,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.13.01.52.39",
+      "rms": 0.07671097179256287,
+      "samples": 20480,
+      "baseline": true,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.13.02.02.39",
+      "rms": 0.07504429291050385,
+      "samples": 20480,
+      "baseline": true,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.13.02.12.39",
+      "rms": 0.07824627774193958,
+      "samples": 20480,
+      "baseline": true,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.13.02.22.39",
+      "rms": 0.07745035456261644,
+      "samples": 20480,
+      "baseline": true,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.13.02.32.39",
+      "rms": 0.07831602988602891,
+      "samples": 20480,
+      "baseline": true,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.13.02.42.39",
+      "rms": 0.07656014919860397,
+      "samples": 20480,
+      "baseline": true,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.13.02.52.39",
+      "rms": 0.0776802038005823,
+      "samples": 20480,
+      "baseline": true,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.13.03.02.39",
+      "rms": 0.07571563009461785,
+      "samples": 20480,
+      "baseline": true,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.13.03.12.39",
+      "rms": 0.07794620572117751,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.13.03.22.39",
+      "rms": 0.07659392690463046,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.13.03.32.39",
+      "rms": 0.07639991985536536,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.13.03.42.39",
+      "rms": 0.07663180186215528,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.13.03.52.39",
+      "rms": 0.07728281753869194,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.13.04.02.39",
+      "rms": 0.0776406155665118,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.13.04.12.39",
+      "rms": 0.0768205504579097,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.13.04.22.39",
+      "rms": 0.07606189688801565,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.13.04.32.39",
+      "rms": 0.07604057915175538,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.13.04.42.39",
+      "rms": 0.07735977517064747,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.13.04.52.39",
+      "rms": 0.07650372776099296,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.13.05.02.39",
+      "rms": 0.07627544849405181,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.13.05.12.39",
+      "rms": 0.07797731008871667,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.13.05.22.39",
+      "rms": 0.0760653325402126,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.13.05.32.39",
+      "rms": 0.07680503453601284,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.13.05.42.39",
+      "rms": 0.07551238321978224,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.13.05.52.39",
+      "rms": 0.07894839654107137,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.13.06.02.39",
+      "rms": 0.07721538210988145,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.13.06.12.39",
+      "rms": 0.07775822278664489,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.13.06.22.39",
+      "rms": 0.07727334295376381,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.13.06.32.39",
+      "rms": 0.07669008183816046,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.13.06.42.39",
+      "rms": 0.07812782526141454,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.13.06.52.39",
+      "rms": 0.07781836762515486,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.13.07.02.39",
+      "rms": 0.07918462868462461,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.13.07.12.39",
+      "rms": 0.07639264641168841,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.13.07.22.39",
+      "rms": 0.07713871940374692,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.13.07.32.39",
+      "rms": 0.07619743481420897,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.13.07.42.39",
+      "rms": 0.07634856558440947,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.13.07.52.39",
+      "rms": 0.076352099612482,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.13.08.02.39",
+      "rms": 0.0749701125345127,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.13.08.12.39",
+      "rms": 0.07599478131496513,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.13.08.22.39",
+      "rms": 0.07637512818370995,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.13.08.32.39",
+      "rms": 0.0761586642390206,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.13.08.42.39",
+      "rms": 0.07675040716504376,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.13.08.52.39",
+      "rms": 0.07775600390052285,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.13.09.02.39",
+      "rms": 0.07829207447616425,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.13.09.12.39",
+      "rms": 0.0777104419815558,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.13.09.22.39",
+      "rms": 0.0764751437227932,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.13.09.32.39",
+      "rms": 0.07780436422076126,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.13.09.42.39",
+      "rms": 0.07521345503538163,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.13.09.52.39",
+      "rms": 0.0767870829209941,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.13.10.02.39",
+      "rms": 0.0774211301679611,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.13.10.12.39",
+      "rms": 0.07658231248752874,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.13.10.22.39",
+      "rms": 0.07677764732593889,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.13.10.32.39",
+      "rms": 0.07591135480982077,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.13.10.42.39",
+      "rms": 0.07588479877779788,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.13.10.52.39",
+      "rms": 0.0760569816198684,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.13.11.02.39",
+      "rms": 0.07562556107746408,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.13.11.12.39",
+      "rms": 0.07621096753266964,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.13.11.22.39",
+      "rms": 0.07680135350624119,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.13.11.32.39",
+      "rms": 0.0751580064113889,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.13.11.42.39",
+      "rms": 0.07893970887150997,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.13.11.52.39",
+      "rms": 0.07692398274331452,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.13.12.02.39",
+      "rms": 0.07649164163641917,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.13.12.12.39",
+      "rms": 0.07650745183017714,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.13.12.22.39",
+      "rms": 0.07739848852135696,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.13.12.32.39",
+      "rms": 0.0784800631530072,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.13.12.42.39",
+      "rms": 0.07904600278724172,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.13.12.52.39",
+      "rms": 0.076684854401187,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.13.13.02.39",
+      "rms": 0.07731124506358211,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.13.13.12.39",
+      "rms": 0.07651273988842887,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.13.13.22.39",
+      "rms": 0.07853164575357902,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.13.13.32.39",
+      "rms": 0.07695335881944174,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.13.13.42.39",
+      "rms": 0.07736240147584209,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.13.13.52.39",
+      "rms": 0.07617467014102358,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.13.14.02.39",
+      "rms": 0.07762221305131911,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.13.14.12.39",
+      "rms": 0.0772534147328817,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.13.14.22.39",
+      "rms": 0.07768636614216809,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.13.14.32.39",
+      "rms": 0.07781753999741961,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.13.14.42.39",
+      "rms": 0.07728229123843638,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.13.14.52.39",
+      "rms": 0.0763878511845552,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.13.15.02.39",
+      "rms": 0.07818466596582414,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.13.15.12.39",
+      "rms": 0.07616144415760429,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.13.15.22.39",
+      "rms": 0.07534258573084265,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.13.15.32.39",
+      "rms": 0.07689426810105468,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.13.15.42.39",
+      "rms": 0.07548419678875672,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.13.15.52.39",
+      "rms": 0.0782630183983989,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.13.16.02.39",
+      "rms": 0.07547406975298288,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.13.16.12.39",
+      "rms": 0.07556067544581722,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.13.16.22.39",
+      "rms": 0.07667824796470965,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.13.16.32.39",
+      "rms": 0.07675079237935838,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.13.16.42.39",
+      "rms": 0.07611983831535804,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.13.16.52.39",
+      "rms": 0.07516506282789814,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.13.17.02.39",
+      "rms": 0.07809152470318882,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.13.17.12.39",
+      "rms": 0.07635685583884233,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.13.17.22.39",
+      "rms": 0.07786806061076165,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.13.17.32.39",
+      "rms": 0.07661025105301672,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.13.17.42.39",
+      "rms": 0.07899964213229861,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.13.17.52.39",
+      "rms": 0.07538985427067177,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.13.18.02.39",
+      "rms": 0.07723122433134638,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.13.18.12.39",
+      "rms": 0.07531071120800978,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.13.18.22.39",
+      "rms": 0.07813312239027137,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.13.18.32.39",
+      "rms": 0.07744816468381047,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.13.18.42.39",
+      "rms": 0.07761624000742773,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.13.18.52.39",
+      "rms": 0.07773736614848181,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.13.19.02.39",
+      "rms": 0.07657840332279559,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.13.19.12.39",
+      "rms": 0.07618282421306082,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.13.19.22.39",
+      "rms": 0.07527411495867953,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.13.19.32.39",
+      "rms": 0.07653573894552466,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.13.19.42.39",
+      "rms": 0.07660493658109607,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.13.19.52.39",
+      "rms": 0.07864126887278634,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.13.20.02.39",
+      "rms": 0.07702684539892164,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.13.20.12.39",
+      "rms": 0.07654619086497708,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.13.20.22.39",
+      "rms": 0.07741179487861087,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.13.20.32.39",
+      "rms": 0.07589032163569179,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.13.20.42.39",
+      "rms": 0.07564360372930583,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.13.20.52.39",
+      "rms": 0.07589364120524608,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.13.21.02.39",
+      "rms": 0.07722140418091265,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.13.21.12.39",
+      "rms": 0.07669429791080462,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.13.21.22.39",
+      "rms": 0.07669445070884366,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.13.21.32.39",
+      "rms": 0.0764435019107249,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.13.21.42.39",
+      "rms": 0.07806299602024157,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.13.21.52.39",
+      "rms": 0.07733820308392224,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.13.22.02.39",
+      "rms": 0.07694966711774165,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.13.22.12.39",
+      "rms": 0.07891612654772708,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.13.22.22.39",
+      "rms": 0.07747811939105775,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.13.22.32.39",
+      "rms": 0.07688436331443231,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.13.22.42.39",
+      "rms": 0.07743250463104949,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.13.22.52.39",
+      "rms": 0.07765237980798625,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.13.23.02.39",
+      "rms": 0.07845143800466631,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.13.23.12.39",
+      "rms": 0.07746541157338786,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.13.23.22.39",
+      "rms": 0.07702369416543603,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.13.23.32.39",
+      "rms": 0.07602763394350028,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.13.23.42.39",
+      "rms": 0.07740210771869765,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.13.23.52.39",
+      "rms": 0.07756348867470199,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.14.00.02.39",
+      "rms": 0.0770032787070825,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.14.00.12.39",
+      "rms": 0.07633698995347046,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.14.00.22.39",
+      "rms": 0.07642125683403637,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.14.00.32.39",
+      "rms": 0.07821621550028805,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.14.00.42.39",
+      "rms": 0.0776202063611459,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.14.00.52.39",
+      "rms": 0.07717074242436783,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.14.01.02.39",
+      "rms": 0.07785537630209377,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.14.01.12.39",
+      "rms": 0.0761451459513548,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.14.01.22.39",
+      "rms": 0.07811579383257748,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.14.01.32.39",
+      "rms": 0.07646615334526692,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.14.01.42.39",
+      "rms": 0.077847334070442,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.14.01.52.39",
+      "rms": 0.07809616123978583,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.14.02.02.39",
+      "rms": 0.07853328688166249,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.14.02.12.39",
+      "rms": 0.07740059716440338,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.14.02.22.39",
+      "rms": 0.0770826017349854,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.14.02.32.39",
+      "rms": 0.0778543530765541,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.14.02.42.39",
+      "rms": 0.07619507050676735,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.14.02.52.39",
+      "rms": 0.07689889872423401,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.14.03.02.39",
+      "rms": 0.07566271754418999,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.14.03.12.39",
+      "rms": 0.07709097519834116,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.14.03.22.39",
+      "rms": 0.07812214182271728,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.14.03.32.39",
+      "rms": 0.07616692644182087,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.14.03.42.39",
+      "rms": 0.07731350987113281,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.14.03.52.39",
+      "rms": 0.07587677323658983,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.14.04.02.39",
+      "rms": 0.0762042431228201,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.14.04.12.39",
+      "rms": 0.07576237683798354,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.14.04.22.39",
+      "rms": 0.07609244608739095,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.14.04.32.39",
+      "rms": 0.0786182224572888,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.14.04.42.39",
+      "rms": 0.0765472363611597,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.14.04.52.39",
+      "rms": 0.07655005415423052,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.14.05.02.39",
+      "rms": 0.07695157390568759,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.14.05.12.39",
+      "rms": 0.07666247331291318,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.14.05.22.39",
+      "rms": 0.07718117604407745,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.14.05.32.39",
+      "rms": 0.0754853262075236,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.14.05.42.39",
+      "rms": 0.07848934759282226,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.14.05.52.39",
+      "rms": 0.07744872989093333,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.14.06.02.39",
+      "rms": 0.0774396340631083,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.14.06.12.39",
+      "rms": 0.0772467994002219,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.14.06.22.39",
+      "rms": 0.07564605885770338,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.14.06.32.39",
+      "rms": 0.07614973556462622,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.14.06.42.39",
+      "rms": 0.07858716579030653,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.14.06.52.39",
+      "rms": 0.07790162973915003,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.14.07.02.39",
+      "rms": 0.0777059461206155,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.14.07.12.39",
+      "rms": 0.07785898335492507,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.14.07.22.39",
+      "rms": 0.07571334102894697,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.14.07.32.39",
+      "rms": 0.07639177457459835,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.14.07.42.39",
+      "rms": 0.07736211145685269,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.14.07.52.39",
+      "rms": 0.07842339670271,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.14.08.02.39",
+      "rms": 0.07628107301034363,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.14.08.12.39",
+      "rms": 0.0782240275511823,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.14.08.22.39",
+      "rms": 0.07825938535718496,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.14.08.32.39",
+      "rms": 0.07883279811470445,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.14.08.42.39",
+      "rms": 0.07697529154093864,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.14.08.52.39",
+      "rms": 0.07868750124106433,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.14.09.02.39",
+      "rms": 0.07629050409864258,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.14.09.12.39",
+      "rms": 0.07758280543534599,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.14.09.22.39",
+      "rms": 0.07689642263755268,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.14.09.32.39",
+      "rms": 0.07679911555734627,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.14.09.42.39",
+      "rms": 0.07762733365050933,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.14.09.52.39",
+      "rms": 0.07806387515051777,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.14.10.02.39",
+      "rms": 0.0761460433763633,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.14.10.12.39",
+      "rms": 0.07774952930173035,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.14.10.22.39",
+      "rms": 0.07605541128636083,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.14.10.32.39",
+      "rms": 0.07691889784508826,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.14.10.42.39",
+      "rms": 0.07625929630830264,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.14.10.52.39",
+      "rms": 0.07750343899879944,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.14.11.02.39",
+      "rms": 0.0768942052356881,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.14.11.12.39",
+      "rms": 0.07765448690151458,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.14.11.22.39",
+      "rms": 0.07698864186724233,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.14.11.32.39",
+      "rms": 0.07813684441464298,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.14.11.42.39",
+      "rms": 0.07653528310881769,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.14.11.52.39",
+      "rms": 0.07844825685702805,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.14.12.02.39",
+      "rms": 0.07781413088150346,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.14.12.12.39",
+      "rms": 0.07730263111527155,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.14.12.22.39",
+      "rms": 0.0781221315098393,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.14.12.32.39",
+      "rms": 0.07923294929450911,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.14.12.42.39",
+      "rms": 0.07538111630449963,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.14.12.52.39",
+      "rms": 0.07695273730866807,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.14.13.02.39",
+      "rms": 0.07620697076106703,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.14.13.12.39",
+      "rms": 0.07855317354645036,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.14.13.22.39",
+      "rms": 0.07703774503551003,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.14.13.32.39",
+      "rms": 0.07783553311209315,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.14.13.42.39",
+      "rms": 0.07702249886903988,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.14.13.52.39",
+      "rms": 0.07605641216906862,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.14.14.02.39",
+      "rms": 0.07764319967053215,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.14.14.12.39",
+      "rms": 0.07824552016429598,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.14.14.22.39",
+      "rms": 0.07848323274601796,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.14.14.32.39",
+      "rms": 0.07779132524390572,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.14.14.42.39",
+      "rms": 0.07653336531121165,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.14.14.52.39",
+      "rms": 0.07771954820910969,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.14.15.02.39",
+      "rms": 0.07693467481866109,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.14.15.12.39",
+      "rms": 0.07840756556538804,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.14.15.22.39",
+      "rms": 0.0763741992465183,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.14.15.32.39",
+      "rms": 0.07685433411249491,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.14.15.42.39",
+      "rms": 0.07689268883127397,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.14.15.52.39",
+      "rms": 0.07817967180785793,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.14.16.02.39",
+      "rms": 0.07825966082036613,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.14.16.12.39",
+      "rms": 0.07600318789572251,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.14.16.22.39",
+      "rms": 0.0775694166814272,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.14.16.32.39",
+      "rms": 0.07732922906617362,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.14.16.42.39",
+      "rms": 0.07651370160437361,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.14.16.52.39",
+      "rms": 0.07876241407609184,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.14.17.02.39",
+      "rms": 0.07563445673052643,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.14.17.12.39",
+      "rms": 0.07764984159926294,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.14.17.22.39",
+      "rms": 0.07831222347566902,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.14.17.32.39",
+      "rms": 0.077487861007487,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.14.17.42.39",
+      "rms": 0.0766385636190668,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.14.17.52.39",
+      "rms": 0.07512177873709461,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.14.18.02.39",
+      "rms": 0.0750074140215694,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.14.18.12.39",
+      "rms": 0.07638231571703541,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.14.18.22.39",
+      "rms": 0.07788027921511965,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.14.18.32.39",
+      "rms": 0.07527439096762507,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.14.18.42.39",
+      "rms": 0.07918299858950152,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.14.18.52.39",
+      "rms": 0.07800711324486297,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.14.19.02.39",
+      "rms": 0.07825582203031686,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.14.19.12.39",
+      "rms": 0.07756201211067341,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.14.19.22.39",
+      "rms": 0.07689549618790671,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.14.19.32.39",
+      "rms": 0.07675198204637373,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.14.19.42.39",
+      "rms": 0.07706073123730481,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.14.19.52.39",
+      "rms": 0.07648439894024141,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.14.20.02.39",
+      "rms": 0.07804829515724943,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.14.20.12.39",
+      "rms": 0.07650581224090511,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.14.20.22.39",
+      "rms": 0.07870505320746964,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.14.20.32.39",
+      "rms": 0.07722064160724369,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.14.20.42.39",
+      "rms": 0.07668115900587559,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.14.20.52.39",
+      "rms": 0.07560518496862914,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.14.21.02.39",
+      "rms": 0.07643147398057787,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.14.21.12.39",
+      "rms": 0.07738588467210526,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.14.21.22.39",
+      "rms": 0.07673222832214147,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.14.21.32.39",
+      "rms": 0.07787403565815439,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.14.21.42.39",
+      "rms": 0.07610197914948566,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.14.21.52.39",
+      "rms": 0.07844877284532563,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.14.22.02.39",
+      "rms": 0.07838618964181446,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.14.22.12.39",
+      "rms": 0.07640125207324402,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.14.22.22.39",
+      "rms": 0.07758806582835001,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.14.22.32.39",
+      "rms": 0.07630787730419367,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.14.22.42.39",
+      "rms": 0.07535862403731158,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.14.22.52.39",
+      "rms": 0.0768473247948489,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.14.23.02.39",
+      "rms": 0.07787287473273749,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.14.23.12.39",
+      "rms": 0.07755523957507239,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.14.23.22.39",
+      "rms": 0.07666440030051432,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.14.23.32.39",
+      "rms": 0.07756505271282776,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.14.23.42.39",
+      "rms": 0.07749496549927856,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.14.23.52.39",
+      "rms": 0.07696251021449095,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.15.00.02.39",
+      "rms": 0.0782745225402637,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.15.00.12.39",
+      "rms": 0.07576478107129493,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.15.00.22.39",
+      "rms": 0.0749523728985614,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.15.00.32.39",
+      "rms": 0.07601210519857182,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.15.00.42.39",
+      "rms": 0.07784616647443614,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.15.00.52.39",
+      "rms": 0.07777190268764324,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.15.01.02.39",
+      "rms": 0.0760942646286499,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.15.01.12.39",
+      "rms": 0.07791981712241516,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.15.01.22.39",
+      "rms": 0.07685402406917285,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.15.01.32.39",
+      "rms": 0.07674329768933816,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.15.01.42.39",
+      "rms": 0.07582986649298382,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.15.01.52.39",
+      "rms": 0.0784444861181699,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.15.02.02.39",
+      "rms": 0.07731954482353573,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.15.02.12.39",
+      "rms": 0.07740247581129915,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.15.02.22.39",
+      "rms": 0.07701573119540255,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.15.02.32.39",
+      "rms": 0.07521198946560981,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.15.02.42.39",
+      "rms": 0.07688848490722212,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.15.02.52.39",
+      "rms": 0.07637173140254105,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.15.03.02.39",
+      "rms": 0.07586469664650104,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.15.03.12.39",
+      "rms": 0.075098837218445,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.15.03.22.39",
+      "rms": 0.07799511327841316,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.15.03.32.39",
+      "rms": 0.07796534561705926,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.15.03.42.39",
+      "rms": 0.07798807594904733,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.15.03.52.39",
+      "rms": 0.07783362414069513,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.15.04.02.39",
+      "rms": 0.0789731544947989,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.15.04.12.39",
+      "rms": 0.07863142766105437,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.15.04.22.39",
+      "rms": 0.0772709316302062,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.15.04.32.39",
+      "rms": 0.076864965363881,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.15.04.42.39",
+      "rms": 0.07859432684927471,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.15.04.52.39",
+      "rms": 0.07406587578013323,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.15.05.02.39",
+      "rms": 0.07718297304538742,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.15.05.12.39",
+      "rms": 0.0776099066319621,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.15.05.22.39",
+      "rms": 0.07535483865674701,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.15.05.32.39",
+      "rms": 0.07658680736589037,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.15.05.42.39",
+      "rms": 0.0740066815633266,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.15.05.52.39",
+      "rms": 0.07723644861165371,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.15.06.02.39",
+      "rms": 0.07638222845805659,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.15.06.12.39",
+      "rms": 0.07657197230945129,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.15.06.22.39",
+      "rms": 0.07622631580171722,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.15.06.32.39",
+      "rms": 0.07611128423493212,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.15.06.42.39",
+      "rms": 0.07623503727422926,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.15.06.52.39",
+      "rms": 0.07708552506033882,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.15.07.02.39",
+      "rms": 0.07748513088207633,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.15.07.12.39",
+      "rms": 0.07610651811513502,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.15.07.22.39",
+      "rms": 0.07635003555786664,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.15.07.32.39",
+      "rms": 0.07706156097359759,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.15.07.42.39",
+      "rms": 0.07699595762268546,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.15.07.52.39",
+      "rms": 0.07728027098298197,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.15.08.02.39",
+      "rms": 0.07780435763121658,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.15.08.12.39",
+      "rms": 0.0768502967803923,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.15.08.22.39",
+      "rms": 0.07659630599315398,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.15.08.32.39",
+      "rms": 0.07640399408735123,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.15.08.42.39",
+      "rms": 0.07807795239624708,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.15.08.52.39",
+      "rms": 0.07713057459340865,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.15.09.02.39",
+      "rms": 0.07667752265474381,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.15.09.12.39",
+      "rms": 0.07616845537195828,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.15.09.22.39",
+      "rms": 0.07769009071504872,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.15.09.32.39",
+      "rms": 0.07704597666024651,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.15.09.42.39",
+      "rms": 0.07618983570301963,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.15.09.52.39",
+      "rms": 0.07626676749553996,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.15.10.02.39",
+      "rms": 0.07687972991038503,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.15.10.12.39",
+      "rms": 0.07759393186144616,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.15.10.22.39",
+      "rms": 0.07751806461591308,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.15.10.32.39",
+      "rms": 0.07726790157161802,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.15.10.42.39",
+      "rms": 0.07629958876752713,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.15.10.52.39",
+      "rms": 0.07781444368807358,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.15.11.02.39",
+      "rms": 0.07798443416898176,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.15.11.12.39",
+      "rms": 0.0771727857938762,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.15.11.22.39",
+      "rms": 0.07657231665382977,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.15.11.32.39",
+      "rms": 0.07822583586312373,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.15.11.42.39",
+      "rms": 0.07821529157356316,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.15.11.52.39",
+      "rms": 0.07738252216313529,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.15.12.02.39",
+      "rms": 0.0772641964605049,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.15.12.12.39",
+      "rms": 0.07699383884898274,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.15.12.22.39",
+      "rms": 0.07690982601651511,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.15.12.32.39",
+      "rms": 0.07732355197126632,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.15.12.42.39",
+      "rms": 0.07831285446098951,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.15.12.52.39",
+      "rms": 0.0783206512617362,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.15.13.02.39",
+      "rms": 0.07863466597728622,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.15.13.12.39",
+      "rms": 0.075895809993763,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.15.13.22.39",
+      "rms": 0.07599208397044968,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.15.13.32.39",
+      "rms": 0.07671332879267542,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.15.13.42.39",
+      "rms": 0.07887653617511595,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.15.13.52.39",
+      "rms": 0.07698641253392544,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.15.14.02.39",
+      "rms": 0.07870018792911568,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.15.14.12.39",
+      "rms": 0.07909664714666324,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.15.14.22.39",
+      "rms": 0.07852285259022529,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.15.14.32.39",
+      "rms": 0.07765788699230346,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.15.14.42.39",
+      "rms": 0.07734418592048871,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.15.14.52.39",
+      "rms": 0.07948663378941062,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.15.15.02.39",
+      "rms": 0.07879434639260295,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.15.15.12.39",
+      "rms": 0.07817851729475464,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.15.15.22.39",
+      "rms": 0.07934480601896698,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.15.15.32.39",
+      "rms": 0.0779101486313922,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.15.15.42.39",
+      "rms": 0.07741225186158357,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.15.15.52.39",
+      "rms": 0.07717606759971805,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.15.16.02.39",
+      "rms": 0.07613608261640387,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.15.16.12.39",
+      "rms": 0.0773241989178113,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.15.16.22.39",
+      "rms": 0.07663857285733715,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.15.16.32.39",
+      "rms": 0.07806556426631879,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.15.16.42.39",
+      "rms": 0.07578872289185329,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.15.16.52.39",
+      "rms": 0.07693434701094173,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.15.17.02.39",
+      "rms": 0.07732904689791945,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.15.17.12.39",
+      "rms": 0.07843469958895345,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.15.17.22.39",
+      "rms": 0.07572220509038284,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.15.17.32.39",
+      "rms": 0.0784842490169206,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.15.17.42.39",
+      "rms": 0.07769689014549584,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.15.17.52.39",
+      "rms": 0.07684735275206296,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.15.18.02.39",
+      "rms": 0.07749397185477154,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.15.18.12.39",
+      "rms": 0.0768944284392569,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.15.18.22.39",
+      "rms": 0.07756135172397398,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.15.18.32.39",
+      "rms": 0.07578647662388391,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.15.18.42.39",
+      "rms": 0.076664614301107,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.15.18.52.39",
+      "rms": 0.07681094129826167,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.15.19.02.39",
+      "rms": 0.07548862542369794,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.15.19.12.39",
+      "rms": 0.07672604153231645,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.15.19.22.39",
+      "rms": 0.07659261588817652,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.15.19.32.39",
+      "rms": 0.0761245009733233,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.15.19.42.39",
+      "rms": 0.0758757143191252,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.15.19.52.39",
+      "rms": 0.07866708215291275,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.15.20.02.39",
+      "rms": 0.07488942304220102,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.15.20.12.39",
+      "rms": 0.07551084326884368,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.15.20.22.39",
+      "rms": 0.07746565172555915,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.15.20.32.39",
+      "rms": 0.07787997670444166,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.15.20.42.39",
+      "rms": 0.07812252964844313,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.15.20.52.39",
+      "rms": 0.07611407711044653,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.15.21.02.39",
+      "rms": 0.077470789606067,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.15.21.12.39",
+      "rms": 0.07693442285428465,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.15.21.22.39",
+      "rms": 0.07845103780085545,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.15.21.32.39",
+      "rms": 0.07712598352036994,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.15.21.42.39",
+      "rms": 0.07664916109445931,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.15.21.52.39",
+      "rms": 0.07609715052720026,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.15.22.02.39",
+      "rms": 0.07746998977930906,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.15.22.12.39",
+      "rms": 0.07800517279271853,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.15.22.22.39",
+      "rms": 0.07763653012948785,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.15.22.32.39",
+      "rms": 0.0791884014846082,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.15.22.42.39",
+      "rms": 0.07754853035710525,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.15.22.52.39",
+      "rms": 0.07856042875899338,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.15.23.02.39",
+      "rms": 0.0789819683115037,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.15.23.12.39",
+      "rms": 0.07907627967862739,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.15.23.22.39",
+      "rms": 0.07822047728316575,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.15.23.32.39",
+      "rms": 0.07781550947995522,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.15.23.42.39",
+      "rms": 0.077529087283419,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.15.23.52.39",
+      "rms": 0.08153544630347129,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.16.00.02.39",
+      "rms": 0.07680178169726923,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.16.00.12.39",
+      "rms": 0.07831487270697295,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.16.00.22.39",
+      "rms": 0.07714297013854778,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.16.00.32.39",
+      "rms": 0.07835456303769503,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.16.00.42.39",
+      "rms": 0.07742108696622162,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.16.00.52.39",
+      "rms": 0.0755716893063095,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.16.01.02.39",
+      "rms": 0.07788295128949917,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.16.01.12.39",
+      "rms": 0.0790382315149803,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.16.01.22.39",
+      "rms": 0.07650243562299178,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.16.01.32.39",
+      "rms": 0.07822062241816012,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.16.01.42.39",
+      "rms": 0.0796214999353386,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.16.01.52.39",
+      "rms": 0.07955654282244407,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.16.02.02.39",
+      "rms": 0.080108293097824,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.16.02.12.39",
+      "rms": 0.07790080048880675,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.16.02.22.39",
+      "rms": 0.07848352017750684,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.16.02.32.39",
+      "rms": 0.0781613696593864,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.16.02.42.39",
+      "rms": 0.0778284258300751,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.16.02.52.39",
+      "rms": 0.07946396957701962,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.16.03.02.39",
+      "rms": 0.07711978716429153,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.16.03.12.39",
+      "rms": 0.08226511158434281,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.16.03.22.39",
+      "rms": 0.08432588993239636,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.16.03.32.39",
+      "rms": 0.0842800498732685,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.16.03.42.39",
+      "rms": 0.08309850817281184,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.16.03.52.39",
+      "rms": 0.08266808841262072,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.16.04.02.39",
+      "rms": 0.08427124871137842,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.16.04.12.39",
+      "rms": 0.08598723191692109,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.16.04.22.39",
+      "rms": 0.08444288039158852,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.16.04.32.39",
+      "rms": 0.08268255902187746,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.16.04.42.39",
+      "rms": 0.0836379520986137,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.16.04.52.39",
+      "rms": 0.08381571232658289,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.16.05.02.39",
+      "rms": 0.08551655227434408,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.16.05.12.39",
+      "rms": 0.08430120065361243,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.16.05.22.39",
+      "rms": 0.08697885681706287,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.16.05.32.39",
+      "rms": 0.08478583054111621,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.16.05.42.39",
+      "rms": 0.08516847160004398,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.16.05.52.39",
+      "rms": 0.08699169910336632,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.16.06.02.39",
+      "rms": 0.0869552866420438,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.16.06.12.39",
+      "rms": 0.08790080163305893,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.16.06.22.39",
+      "rms": 0.08565032244174565,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.16.06.32.39",
+      "rms": 0.08544638075644281,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.16.06.42.39",
+      "rms": 0.08661301154867697,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.16.06.52.39",
+      "rms": 0.08760435629686174,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.16.07.02.39",
+      "rms": 0.08819957754159384,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.16.07.12.39",
+      "rms": 0.08605389220297505,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.16.07.22.39",
+      "rms": 0.08917826412847892,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.16.07.32.39",
+      "rms": 0.08561711642539709,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.16.07.42.39",
+      "rms": 0.08827365730623576,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.16.07.52.39",
+      "rms": 0.08883351291927008,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.16.08.02.39",
+      "rms": 0.08730537730432188,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.16.08.12.39",
+      "rms": 0.0874788557041786,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.16.08.22.39",
+      "rms": 0.08891707562606087,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.16.08.32.39",
+      "rms": 0.08606533531776527,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.16.08.42.39",
+      "rms": 0.08849752380010416,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.16.08.52.39",
+      "rms": 0.08784936420382122,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.16.09.02.39",
+      "rms": 0.08692632195841919,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.16.09.12.39",
+      "rms": 0.08674333435306426,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.16.09.22.39",
+      "rms": 0.08853620513180258,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.16.09.32.39",
+      "rms": 0.08814084160583206,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.16.09.42.39",
+      "rms": 0.0899870048126742,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.16.09.52.39",
+      "rms": 0.08840501059576603,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.16.10.02.39",
+      "rms": 0.08764679009783032,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.16.10.12.39",
+      "rms": 0.08951969957125708,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.16.10.22.39",
+      "rms": 0.08913656021626312,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.16.10.32.39",
+      "rms": 0.08819533236169942,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.16.10.42.39",
+      "rms": 0.08845663938213598,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.16.10.52.39",
+      "rms": 0.090150743170207,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.16.11.02.39",
+      "rms": 0.09071041798845723,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.16.11.12.39",
+      "rms": 0.08991441460146976,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.16.11.22.39",
+      "rms": 0.09103706078046937,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.16.11.32.39",
+      "rms": 0.09011333846624066,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.16.11.42.39",
+      "rms": 0.0920947353718068,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.16.11.52.39",
+      "rms": 0.0892083709483904,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.16.12.02.39",
+      "rms": 0.08972886132503577,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.16.12.12.39",
+      "rms": 0.09109389338539316,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.16.12.22.39",
+      "rms": 0.0918239707351109,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.16.12.32.39",
+      "rms": 0.08981583914286778,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.16.12.42.39",
+      "rms": 0.09123699259817464,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.16.12.52.39",
+      "rms": 0.090868854030479,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.16.13.02.39",
+      "rms": 0.08962443312887326,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.16.13.12.39",
+      "rms": 0.08982404539353243,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.16.13.22.39",
+      "rms": 0.0914061765491158,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.16.13.32.39",
+      "rms": 0.09195853451590287,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.16.13.42.39",
+      "rms": 0.09039873667146503,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.16.13.52.39",
+      "rms": 0.09161855206251215,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.16.14.02.39",
+      "rms": 0.09144305642507458,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.16.14.12.39",
+      "rms": 0.09038385103182842,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.16.14.22.39",
+      "rms": 0.09101168178153356,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.16.14.32.39",
+      "rms": 0.09111499109127158,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.16.14.42.39",
+      "rms": 0.09316506452553379,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.16.14.52.39",
+      "rms": 0.09196030611296717,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.16.15.02.39",
+      "rms": 0.09220456198041396,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.16.15.12.39",
+      "rms": 0.09182987332434704,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.16.15.22.39",
+      "rms": 0.09341100455237795,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.16.15.32.39",
+      "rms": 0.09314935818183344,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.16.15.42.39",
+      "rms": 0.09361258209954337,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.16.15.52.39",
+      "rms": 0.09453647609520888,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.16.16.02.39",
+      "rms": 0.09488179632277996,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.16.16.12.39",
+      "rms": 0.09591115706125186,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.16.16.22.39",
+      "rms": 0.09453624651051509,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.16.16.32.39",
+      "rms": 0.09484404113423191,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.16.16.42.39",
+      "rms": 0.09559869276613436,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.16.16.52.39",
+      "rms": 0.0962706846686077,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.16.17.02.39",
+      "rms": 0.09629343885845754,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.16.17.12.39",
+      "rms": 0.09498840749582946,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.16.17.22.39",
+      "rms": 0.09552074356479788,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.16.17.32.39",
+      "rms": 0.09492288322509818,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.16.17.42.39",
+      "rms": 0.09428204497096067,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.16.17.52.39",
+      "rms": 0.09331646084820391,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.16.18.02.39",
+      "rms": 0.09846557957645974,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.16.18.12.39",
+      "rms": 0.09505307008620237,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.16.18.22.39",
+      "rms": 0.09558984315937742,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.16.18.32.39",
+      "rms": 0.09694473044843,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.16.18.42.39",
+      "rms": 0.0965114094210498,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.16.18.52.39",
+      "rms": 0.09612524026709245,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.16.19.02.39",
+      "rms": 0.09615338622035433,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.16.19.12.39",
+      "rms": 0.09568015540681293,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.16.19.22.39",
+      "rms": 0.09588543375429867,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.16.19.32.39",
+      "rms": 0.09359121892445693,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.16.19.42.39",
+      "rms": 0.0978013926401038,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.16.19.52.39",
+      "rms": 0.09710681060572232,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.16.20.02.39",
+      "rms": 0.09409151883148462,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.16.20.12.39",
+      "rms": 0.09633701373222939,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.16.20.22.39",
+      "rms": 0.09589212714726962,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.16.20.32.39",
+      "rms": 0.09741922811159702,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.16.20.42.39",
+      "rms": 0.09765945669735152,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.16.20.52.39",
+      "rms": 0.09483689122646313,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.16.21.02.39",
+      "rms": 0.09751085676733642,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.16.21.12.39",
+      "rms": 0.09844802225508394,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.16.21.22.39",
+      "rms": 0.09941949426467503,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.16.21.32.39",
+      "rms": 0.09837946999850884,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.16.21.42.39",
+      "rms": 0.09805131488951334,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.16.21.52.39",
+      "rms": 0.09792751075811766,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.16.22.02.39",
+      "rms": 0.09727314629554436,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.16.22.12.39",
+      "rms": 0.09838645353035777,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.16.22.22.39",
+      "rms": 0.10379379699636138,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.16.22.32.39",
+      "rms": 0.10638649114453806,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.16.22.42.39",
+      "rms": 0.10502789459271344,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.16.22.52.39",
+      "rms": 0.10535479352896691,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.16.23.02.39",
+      "rms": 0.1062761847330165,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.16.23.12.39",
+      "rms": 0.10429216187852698,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.16.23.22.39",
+      "rms": 0.1058579707010176,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.16.23.32.39",
+      "rms": 0.10620989914212917,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.16.23.42.39",
+      "rms": 0.10301590204535778,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.16.23.52.39",
+      "rms": 0.10596938126470777,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.17.00.02.39",
+      "rms": 0.10595938103673265,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.17.00.12.39",
+      "rms": 0.10464030419355035,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.17.00.22.39",
+      "rms": 0.10564207193765773,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.17.00.32.39",
+      "rms": 0.10435954367219488,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.17.00.42.39",
+      "rms": 0.10662787171909487,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.17.00.52.39",
+      "rms": 0.10662177420384168,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.17.01.02.39",
+      "rms": 0.10470268546579882,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.17.01.12.39",
+      "rms": 0.10421010318327466,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.17.01.22.39",
+      "rms": 0.10612328036187736,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.17.01.32.39",
+      "rms": 0.10685637013248496,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.17.01.42.39",
+      "rms": 0.10484058257137954,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.17.01.52.39",
+      "rms": 0.10359935976515491,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.17.02.02.39",
+      "rms": 0.1061608500070471,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.17.02.12.39",
+      "rms": 0.10631852845194717,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.17.02.22.39",
+      "rms": 0.10491263548297876,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.17.02.32.39",
+      "rms": 0.1029637437136551,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.17.02.42.39",
+      "rms": 0.10200354165305059,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.17.02.52.39",
+      "rms": 0.10489127136513195,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.17.03.02.39",
+      "rms": 0.10283863459626931,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.17.03.12.39",
+      "rms": 0.104138791478608,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.17.03.22.39",
+      "rms": 0.10527105383433104,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.17.03.32.39",
+      "rms": 0.10531576914436293,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.17.03.42.39",
+      "rms": 0.10321447893638458,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.17.03.52.39",
+      "rms": 0.10400314819265989,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.17.04.02.39",
+      "rms": 0.10480054064895132,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.17.04.12.39",
+      "rms": 0.10488916094613579,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.17.04.22.39",
+      "rms": 0.10448049403028538,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.17.04.32.39",
+      "rms": 0.10532482726442635,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.17.04.42.39",
+      "rms": 0.10710761691664371,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.17.04.52.39",
+      "rms": 0.10712431104832426,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.17.05.02.39",
+      "rms": 0.10520757314597474,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.17.05.12.39",
+      "rms": 0.1051648280769437,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.17.05.22.39",
+      "rms": 0.10574962299541249,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.17.05.32.39",
+      "rms": 0.10543929148781836,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.17.05.42.39",
+      "rms": 0.10669288280028043,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.17.05.52.39",
+      "rms": 0.10714596999756337,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.17.06.02.39",
+      "rms": 0.1082455801187022,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.17.06.12.39",
+      "rms": 0.1066530244622867,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.17.06.22.39",
+      "rms": 0.10575230009134258,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.17.06.32.39",
+      "rms": 0.10728003431076423,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.17.06.42.39",
+      "rms": 0.1092699857470305,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.17.06.52.39",
+      "rms": 0.10650088073652841,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.17.07.02.39",
+      "rms": 0.10979059235618448,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.17.07.12.39",
+      "rms": 0.11276782356350593,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.17.07.22.39",
+      "rms": 0.12028870746886945,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.17.07.32.39",
+      "rms": 0.16689628653443545,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.17.07.42.39",
+      "rms": 0.1717619405135619,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.17.07.52.39",
+      "rms": 0.1737544359258383,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.17.08.02.39",
+      "rms": 0.17177918437224501,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.17.08.12.39",
+      "rms": 0.16911726137713776,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.17.08.22.39",
+      "rms": 0.1736918046931925,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.17.08.32.39",
+      "rms": 0.16859953520542212,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.17.08.42.39",
+      "rms": 0.16686560557006835,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.17.08.52.39",
+      "rms": 0.17252337180324112,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.17.09.02.39",
+      "rms": 0.16982476952361808,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.17.09.12.39",
+      "rms": 0.1688369467847881,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.17.09.22.39",
+      "rms": 0.16849347762436717,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.17.09.32.39",
+      "rms": 0.16950951531182548,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.17.09.42.39",
+      "rms": 0.16993603015753642,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.17.09.52.39",
+      "rms": 0.16509543064755947,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.17.10.02.39",
+      "rms": 0.1655270049130013,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.17.10.12.39",
+      "rms": 0.16503688256696403,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.17.10.22.39",
+      "rms": 0.16810142507227036,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.17.10.32.39",
+      "rms": 0.16409903551523772,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.17.10.42.39",
+      "rms": 0.16516423703487537,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.17.10.52.39",
+      "rms": 0.16412790006005987,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.17.11.02.39",
+      "rms": 0.1638367454217479,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.17.11.12.39",
+      "rms": 0.16321589900343655,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.17.11.22.39",
+      "rms": 0.16847889623499585,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.17.11.32.39",
+      "rms": 0.16697350674021613,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.17.11.42.39",
+      "rms": 0.16563809588555933,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.17.11.52.39",
+      "rms": 0.16415866735084764,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.17.12.02.39",
+      "rms": 0.16524972475984076,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.17.12.12.39",
+      "rms": 0.16630584896626646,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.17.12.22.39",
+      "rms": 0.1575511747218979,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.17.12.32.39",
+      "rms": 0.16212426031057164,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.17.12.42.39",
+      "rms": 0.1558261737820283,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.17.12.52.39",
+      "rms": 0.15678997088686228,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.17.13.02.39",
+      "rms": 0.15417651476498656,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.17.13.12.39",
+      "rms": 0.15502766606671775,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.17.13.22.39",
+      "rms": 0.15479955490008887,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.17.13.32.39",
+      "rms": 0.1450686467016887,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.17.13.42.39",
+      "rms": 0.14251295959436022,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.17.13.52.39",
+      "rms": 0.14808891668890603,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.17.14.02.39",
+      "rms": 0.1452710145754522,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.17.14.12.39",
+      "rms": 0.1439164398197462,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.17.14.22.39",
+      "rms": 0.13972712158296033,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.17.14.32.39",
+      "rms": 0.13942111694991724,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.17.14.42.39",
+      "rms": 0.1397635746076544,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.17.14.52.39",
+      "rms": 0.14242094915360065,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.17.15.02.39",
+      "rms": 0.13856824279089436,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.17.15.12.39",
+      "rms": 0.14059532065276256,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.17.15.22.39",
+      "rms": 0.1344781462772739,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.17.15.32.39",
+      "rms": 0.14053554724361556,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.17.15.42.39",
+      "rms": 0.1395541734739036,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.17.15.52.39",
+      "rms": 0.13509444305715124,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.17.16.02.39",
+      "rms": 0.135658014414925,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.17.16.12.39",
+      "rms": 0.13497136089451994,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.17.16.22.39",
+      "rms": 0.13189689984036773,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.17.16.32.39",
+      "rms": 0.12851723194284104,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.17.16.42.39",
+      "rms": 0.12589233138504702,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.17.16.52.39",
+      "rms": 0.12576345778664455,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.17.17.02.39",
+      "rms": 0.12436039114109293,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.17.17.12.39",
+      "rms": 0.12274867278273063,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.17.17.22.39",
+      "rms": 0.12051210248644377,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.17.17.32.39",
+      "rms": 0.1166632473457258,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.17.17.42.39",
+      "rms": 0.11792317642053819,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.17.17.52.39",
+      "rms": 0.11285861527156722,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.17.18.02.39",
+      "rms": 0.11249116241329249,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.17.18.12.39",
+      "rms": 0.11132827171042965,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.17.18.22.39",
+      "rms": 0.1111174328659493,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.17.18.32.39",
+      "rms": 0.11086750498730173,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.17.18.42.39",
+      "rms": 0.11017193970711474,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.17.18.52.39",
+      "rms": 0.11003507652747033,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.17.19.02.39",
+      "rms": 0.1070069605194418,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.17.19.12.39",
+      "rms": 0.1072848457833893,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.17.19.22.39",
+      "rms": 0.10781778904599011,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.17.19.32.39",
+      "rms": 0.10573701784786335,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.17.19.42.39",
+      "rms": 0.10385260668859317,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.17.19.52.39",
+      "rms": 0.10678984226112637,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.17.20.02.39",
+      "rms": 0.1052975265226913,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.17.20.12.39",
+      "rms": 0.10424662858007687,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.17.20.22.39",
+      "rms": 0.10346354326600385,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.17.20.32.39",
+      "rms": 0.10303147274012928,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.17.20.42.39",
+      "rms": 0.09932441224184264,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.17.20.52.39",
+      "rms": 0.10277105523892355,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.17.21.02.39",
+      "rms": 0.10151048547864094,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.17.21.12.39",
+      "rms": 0.10050111138028213,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.17.21.22.39",
+      "rms": 0.09937990578496302,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.17.21.32.39",
+      "rms": 0.10260710653042934,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.17.21.42.39",
+      "rms": 0.10001234542935812,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.17.21.52.39",
+      "rms": 0.10276615596829532,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.17.22.02.39",
+      "rms": 0.10079244075465804,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.17.22.12.39",
+      "rms": 0.10071724420996633,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.17.22.22.39",
+      "rms": 0.10212575566772138,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.17.22.32.39",
+      "rms": 0.1027555945291119,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.17.22.42.39",
+      "rms": 0.10324720860141631,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.17.22.52.39",
+      "rms": 0.10473901018200549,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.17.23.02.39",
+      "rms": 0.10546040777193058,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.17.23.12.39",
+      "rms": 0.10417618977302347,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.17.23.22.39",
+      "rms": 0.10512936366909462,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.17.23.32.39",
+      "rms": 0.10303119336706057,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.17.23.42.39",
+      "rms": 0.10615366979680035,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.17.23.52.39",
+      "rms": 0.10578920644929649,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.18.00.02.39",
+      "rms": 0.10624512879458581,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.18.00.12.39",
+      "rms": 0.10636952169904862,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.18.00.22.39",
+      "rms": 0.10593802474980654,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.18.00.32.39",
+      "rms": 0.1089140454078783,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.18.00.42.39",
+      "rms": 0.1074263562701648,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.18.00.52.39",
+      "rms": 0.10872704274567,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.18.01.02.39",
+      "rms": 0.1102030913263808,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.18.01.12.39",
+      "rms": 0.10984870721388805,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.18.01.22.39",
+      "rms": 0.10855998823195347,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.18.01.32.39",
+      "rms": 0.10971438572742807,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.18.01.42.39",
+      "rms": 0.11021514449553597,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.18.01.52.39",
+      "rms": 0.10842924185053242,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.18.02.02.39",
+      "rms": 0.10878737571627682,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.18.02.12.39",
+      "rms": 0.10945516459555768,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.18.02.22.39",
+      "rms": 0.11022510370295927,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.18.02.32.39",
+      "rms": 0.11007236278388924,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.18.02.42.39",
+      "rms": 0.11049097592889091,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.18.02.52.39",
+      "rms": 0.11108235613161074,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.18.03.02.39",
+      "rms": 0.11181097024177122,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.18.03.12.39",
+      "rms": 0.11377855346468255,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.18.03.22.39",
+      "rms": 0.11121312854576791,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.18.03.32.39",
+      "rms": 0.11279849657720675,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.18.03.42.39",
+      "rms": 0.13760685088379956,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.18.03.52.39",
+      "rms": 0.13716050862749496,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.18.04.02.39",
+      "rms": 0.13582555879463556,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.18.04.12.39",
+      "rms": 0.14128292273948928,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.18.04.22.39",
+      "rms": 0.1392439846307889,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.18.04.32.39",
+      "rms": 0.14149214397499468,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.18.04.42.39",
+      "rms": 0.1454615141527455,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.18.04.52.39",
+      "rms": 0.14226609709559232,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.18.05.02.39",
+      "rms": 0.14848516833288014,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.18.05.12.39",
+      "rms": 0.14734120640036724,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.18.05.22.39",
+      "rms": 0.1502073183189238,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.18.05.32.39",
+      "rms": 0.1523604708772505,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.18.05.42.39",
+      "rms": 0.15797473112440522,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.18.05.52.39",
+      "rms": 0.1564260849997831,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.18.06.02.39",
+      "rms": 0.15855086181175426,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.18.06.12.39",
+      "rms": 0.16185369038067607,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.18.06.22.39",
+      "rms": 0.16324842971583983,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.18.06.32.39",
+      "rms": 0.16117788570347902,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.18.06.42.39",
+      "rms": 0.16386026151185765,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.18.06.52.39",
+      "rms": 0.1641407356615524,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.18.07.02.39",
+      "rms": 0.16522868178726188,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.18.07.12.39",
+      "rms": 0.16665703036921176,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.18.07.22.39",
+      "rms": 0.1676587770662298,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.18.07.32.39",
+      "rms": 0.16649171030297388,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.18.07.42.39",
+      "rms": 0.16421813585161088,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.18.07.52.39",
+      "rms": 0.1702835500051128,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.18.08.02.39",
+      "rms": 0.1736250683382695,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.18.08.12.39",
+      "rms": 0.17298654888097514,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.18.08.22.39",
+      "rms": 0.173294136130417,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.18.08.32.39",
+      "rms": 0.1684884876155768,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.18.08.42.39",
+      "rms": 0.16292540036465886,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.18.08.52.39",
+      "rms": 0.16105745377960237,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.18.09.02.39",
+      "rms": 0.1632516828791992,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.18.09.12.39",
+      "rms": 0.16558045303048682,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.18.09.22.39",
+      "rms": 0.17137651092286174,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.18.09.32.39",
+      "rms": 0.1615881583228061,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.18.09.42.39",
+      "rms": 0.1604859989512325,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.18.09.52.39",
+      "rms": 0.16264127827950267,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.18.10.02.39",
+      "rms": 0.159670972878849,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.18.10.12.39",
+      "rms": 0.16523961989311728,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.18.10.22.39",
+      "rms": 0.16352310019344363,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.18.10.32.39",
+      "rms": 0.16181308058026397,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.18.10.42.39",
+      "rms": 0.16014388473606908,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.18.10.52.39",
+      "rms": 0.15362154742738524,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.18.11.02.39",
+      "rms": 0.1511838291462169,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.18.11.12.39",
+      "rms": 0.14981626670535897,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.18.11.22.39",
+      "rms": 0.149335195075646,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.18.11.32.39",
+      "rms": 0.1498185816975818,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.18.11.42.39",
+      "rms": 0.149862981364958,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.18.11.52.39",
+      "rms": 0.16718367533592543,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.18.12.02.39",
+      "rms": 0.16999917035068693,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.18.12.12.39",
+      "rms": 0.16036722810961876,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.18.12.22.39",
+      "rms": 0.1594284300757122,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.18.12.32.39",
+      "rms": 0.15939881317194618,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.18.12.42.39",
+      "rms": 0.15437217640383338,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.18.12.52.39",
+      "rms": 0.150218535631478,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.18.13.02.39",
+      "rms": 0.1537879396152174,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.18.13.12.39",
+      "rms": 0.15559491551581947,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.18.13.22.39",
+      "rms": 0.15190021604581616,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.18.13.32.39",
+      "rms": 0.1502383227185436,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.18.13.42.39",
+      "rms": 0.15197789499268058,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.18.13.52.39",
+      "rms": 0.15546296424535694,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.18.14.02.39",
+      "rms": 0.15592530873561505,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.18.14.12.39",
+      "rms": 0.15534268396963735,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.18.14.22.39",
+      "rms": 0.154439128886594,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.18.14.32.39",
+      "rms": 0.1553537588243663,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.18.14.42.39",
+      "rms": 0.1636656377093154,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.18.14.52.39",
+      "rms": 0.1562463933958757,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.18.15.02.39",
+      "rms": 0.145387459832554,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.18.15.12.39",
+      "rms": 0.13575110964383036,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.18.15.22.39",
+      "rms": 0.1319658662069476,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.18.15.32.39",
+      "rms": 0.12557964588633583,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.18.15.42.39",
+      "rms": 0.12250529265511603,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.18.15.52.39",
+      "rms": 0.12193231444797815,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.18.16.02.39",
+      "rms": 0.11888064914120539,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.18.16.12.39",
+      "rms": 0.12123167830323371,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.18.16.22.39",
+      "rms": 0.12019822474738083,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.18.16.32.39",
+      "rms": 0.12071113848803731,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.18.16.42.39",
+      "rms": 0.12601823908478982,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.18.16.52.39",
+      "rms": 0.12889697940148995,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.18.17.02.39",
+      "rms": 0.14386658265043908,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.18.17.12.39",
+      "rms": 0.1530643899497957,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.18.17.22.39",
+      "rms": 0.16624198964489614,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.18.17.32.39",
+      "rms": 0.17545500989725793,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.18.17.42.39",
+      "rms": 0.18285186194832348,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.18.17.52.39",
+      "rms": 0.18304781036359397,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.18.18.02.39",
+      "rms": 0.18434091303017047,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.18.18.12.39",
+      "rms": 0.1736957100996776,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.18.18.22.39",
+      "rms": 0.16510211595072383,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.18.18.32.39",
+      "rms": 0.17317741069831213,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.18.18.42.39",
+      "rms": 0.17769195249213945,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.18.18.52.39",
+      "rms": 0.1765543943106221,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.18.19.02.39",
+      "rms": 0.19303768417012682,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.18.19.12.39",
+      "rms": 0.17691763882590783,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.18.19.22.39",
+      "rms": 0.17101502598113455,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.18.19.32.39",
+      "rms": 0.17515580745372283,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.18.19.42.39",
+      "rms": 0.16993852734495457,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.18.19.52.39",
+      "rms": 0.17552127358377032,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.18.20.02.39",
+      "rms": 0.16959605990457519,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.18.20.12.39",
+      "rms": 0.18459811645737173,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.18.20.22.39",
+      "rms": 0.17965330544203745,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.18.20.32.39",
+      "rms": 0.17156891922189388,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.18.20.42.39",
+      "rms": 0.1692448004821252,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.18.20.52.39",
+      "rms": 0.1579695922949849,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.18.21.02.39",
+      "rms": 0.1509290111484535,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.18.21.12.39",
+      "rms": 0.1583352741280449,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.18.21.22.39",
+      "rms": 0.1705056983331129,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.18.21.32.39",
+      "rms": 0.1677026281379484,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.18.21.42.39",
+      "rms": 0.17962051482417907,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.18.21.52.39",
+      "rms": 0.19204555988179603,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.18.22.02.39",
+      "rms": 0.19999621285476882,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.18.22.12.39",
+      "rms": 0.22445728524686076,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.18.22.22.39",
+      "rms": 0.26592951772685464,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.18.22.32.39",
+      "rms": 0.2011581127574153,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.18.22.42.39",
+      "rms": 0.19690958785954438,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.18.22.52.39",
+      "rms": 0.19559759904444923,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.18.23.02.39",
+      "rms": 0.16647280153930175,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.18.23.12.39",
+      "rms": 0.16240046470838684,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.18.23.22.39",
+      "rms": 0.17006932323917578,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.18.23.32.39",
+      "rms": 0.16308295465086547,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.18.23.42.39",
+      "rms": 0.19798816462121702,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.18.23.52.39",
+      "rms": 0.18847632684570761,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.19.00.02.39",
+      "rms": 0.21543727935965637,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.19.00.12.39",
+      "rms": 0.18385103886621773,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.19.00.22.39",
+      "rms": 0.16387582177044147,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.19.00.32.39",
+      "rms": 0.1583213382414958,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.19.00.42.39",
+      "rms": 0.16120348893169156,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.19.00.52.39",
+      "rms": 0.18293621668494187,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.19.01.02.39",
+      "rms": 0.21442471646991426,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.19.01.12.39",
+      "rms": 0.23728752594838,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.19.01.22.39",
+      "rms": 0.198759839575617,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.19.01.32.39",
+      "rms": 0.2361434556379342,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.19.01.42.39",
+      "rms": 0.20298839432938495,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.19.01.52.39",
+      "rms": 0.2210419021583139,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.19.02.02.39",
+      "rms": 0.20722116595824314,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.19.02.12.39",
+      "rms": 0.2615312065920325,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.19.02.22.39",
+      "rms": 0.201622636741226,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.19.02.32.39",
+      "rms": 0.22289943638384188,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.19.02.42.39",
+      "rms": 0.25924244834032173,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.19.02.52.39",
+      "rms": 0.2316656449388253,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.19.03.02.39",
+      "rms": 0.23457642022127487,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.19.03.12.39",
+      "rms": 0.24749721490699397,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.19.03.22.39",
+      "rms": 0.2971881006007338,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.19.03.32.39",
+      "rms": 0.29165111235496877,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.19.03.42.39",
+      "rms": 0.3437355161721363,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.19.03.52.39",
+      "rms": 0.3148111378891517,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.19.04.02.39",
+      "rms": 0.3257155681690027,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.19.04.12.39",
+      "rms": 0.35309010723627615,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.19.04.22.39",
+      "rms": 0.429678447916015,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.19.04.32.39",
+      "rms": 0.41556983063121816,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.19.04.42.39",
+      "rms": 0.371681086587619,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.19.04.52.39",
+      "rms": 0.4476727901067398,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.19.05.02.39",
+      "rms": 0.6721374879698163,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.19.05.12.39",
+      "rms": 0.530956128967989,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.19.05.22.39",
+      "rms": 0.4459182473835416,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.19.05.32.39",
+      "rms": 0.38697483181595205,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.19.05.42.39",
+      "rms": 0.7250014697250727,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.19.05.52.39",
+      "rms": 0.46201166565273954,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.19.06.02.39",
+      "rms": 0.4838353953514789,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": true
+    },
+    {
+      "timestamp": "2004.02.19.06.12.39",
+      "rms": 0.002103011233921493,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    },
+    {
+      "timestamp": "2004.02.19.06.22.39",
+      "rms": 0.001532732063383878,
+      "samples": 20480,
+      "baseline": false,
+      "anomaly": false
+    }
+  ],
+  "anomaly_count": 451,
+  "unit": "raw acceleration amplitude (source units)",
+  "threshold_kind": "demo statistical threshold; not NASA/SKF alarm specification",
+  "baseline_assumption": "First N chronological snapshots assumed healthy; not independently validated",
+  "first_anomaly": {
+    "timestamp": "2004.02.15.23.52.39",
+    "rms": 0.08153544630347129,
+    "samples": 20480,
+    "baseline": false,
+    "anomaly": true
+  },
+  "peak": {
+    "timestamp": "2004.02.19.05.42.39",
+    "rms": 0.7250014697250727,
+    "samples": 20480,
+    "baseline": false,
+    "anomaly": true
+  },
+  "rag": {
+    "query": "NASA IMS 베어링 진동 이상: vibration bearing fault cause alarm threshold remedy",
+    "supported": false,
+    "mode": "retrieval + guarded template (no LLM)",
+    "answer": "진동 RMS의 통계 임계값 초과는 관찰됐지만, SKF CLP Touch 윤활 펌프 매뉴얼은 이 IMS 베어링의 진동 고장 원인·경보 기준·조치를 직접 뒷받침하지 않습니다. 윤활 부족이나 베어링 고장으로 확정하지 않습니다.",
+    "hits": [
+      {
+        "id": "p10-c1",
+        "kind": "text",
+        "document": "SKF CLP Touch Lubrication Pump Assembly Instructions",
+        "document_no": "951-171-072-EN",
+        "version": "V07",
+        "section": "1.15 Note on UL mark",
+        "page": 10,
+        "text": "he op- erator. 1.21 Assembly, maintenance, fault, re- pair Prior to the start of this work, all relevant persons must be notified of it. At a minimum, the following safety measures must be taken before any work is done: • Unauthorized persons must be kept away • Mark and secure the work area • Cover adjacent live parts • Dry any wet, slippery surfaces or cover them appropri- ately • Cover hot or cold surfaces appropriately Where applicable: • Depressurize • Isolate, lock and tag out • Check to ensure live voltage is no longer present • Ground and short-circuit. The product should be protected as much as possible from humidity, dust, and vibration, and should be in- stalled so that it is easily accessible. Ensure an adequate distance from sources of heat or cold. Any visual monitor- ing devices present, such as pressure gauges, min./max. markings, or oil level gauges must be clearly visible. Ob- serve the mounting position requirements. Drill required holes only on non-critical, non-load-bear- ing parts of the operator's infrastructure. Use existing holes where possible. Avoid chafe p",
+        "ko_fact": "",
+        "pdf_link": "https://cdn.skfmediahub.skf.com/api/public/094e2f96a9ffca74/pdf_preview_medium/094e2f96a9ffca74_pdf_preview_medium.pdf#page=10",
+        "score": 0.0658,
+        "rank": 1
+      },
+      {
+        "id": "p45-c1",
+        "kind": "text",
+        "document": "SKF CLP Touch Lubrication Pump Assembly Instructions",
+        "document_no": "951-171-072-EN",
+        "version": "V07",
+        "section": "7 First start-up",
+        "page": 45,
+        "text": "ate for the intended use □ □ 7.2 Inspections during first start-up No unusual noises, vibrations, moisture accumulation, odors present □ □ No undesired discharge of lubricant (leakages) at connections □ □ Lubricant is fed without bubbles □ □ The bearings and friction points requiring lubrication receive the planned lubricant volume □ □",
+        "ko_fact": "",
+        "pdf_link": "https://cdn.skfmediahub.skf.com/api/public/094e2f96a9ffca74/pdf_preview_medium/094e2f96a9ffca74_pdf_preview_medium.pdf#page=45",
+        "score": 0.0442,
+        "rank": 2
+      },
+      {
+        "id": "fault-1",
+        "kind": "fault_row",
+        "document": "SKF CLP Touch Lubrication Pump Assembly Instructions",
+        "document_no": "951-171-072-EN",
+        "version": "V07",
+        "section": "11 Faults, causes, and remedies - Table 17",
+        "page": 50,
+        "text": "Fault: Pump does not run. Possible causes: Power supply to pump interrupted (main machine switched off, pump power cable detached or defective, external fuse defective); The pump is in pause time; The motor of the pump is faulty; Internal cable break. Remedies: Check whether one of the specified faults exists, and remedy it according to responsibility.; Faults outside one's own scope of responsibility must be reported to the supervisor for initiation of further measures.; Please contact Customer Service if you cannot determine or resolve the error.",
+        "fault": "Pump does not run",
+        "causes": [
+          "Power supply to pump interrupted (main machine switched off, pump power cable detached or defective, external fuse defective)",
+          "The pump is in pause time",
+          "The motor of the pump is faulty",
+          "Internal cable break"
+        ],
+        "remedies": [
+          "Check whether one of the specified faults exists, and remedy it according to responsibility.",
+          "Faults outside one's own scope of responsibility must be reported to the supervisor for initiation of further measures.",
+          "Please contact Customer Service if you cannot determine or resolve the error."
+        ],
+        "ko_fact": "펌프가 작동하지 않을 때 가능한 원인에는 펌프 전원 중단(메인 기계 꺼짐, 전원 케이블 분리·결함, 외부 퓨즈 결함), 일시정지 시간, 모터 고장, 내부 케이블 단선이 있다. 해당 원인을 확인해 담당 범위에서 조치하고, 범위를 벗어나면 상급자에게 보고한다.",
+        "pdf_link": "https://cdn.skfmediahub.skf.com/api/public/094e2f96a9ffca74/pdf_preview_medium/094e2f96a9ffca74_pdf_preview_medium.pdf#page=50",
+        "score": 0.0437,
+        "rank": 3
+      },
+      {
+        "id": "p34-c1",
+        "kind": "text",
+        "document": "SKF CLP Touch Lubrication Pump Assembly Instructions",
+        "document_no": "951-171-072-EN",
+        "version": "V07",
+        "section": "3.12 Block operation",
+        "page": 34,
+        "text": "p control issues an error message and the pump remains stopped until the cause is eliminated and the error message is acknowledged. Fig. 36 Block operation without signal from the cycle switch (CS), and subsequent error message",
+        "ko_fact": "",
+        "pdf_link": "https://cdn.skfmediahub.skf.com/api/public/094e2f96a9ffca74/pdf_preview_medium/094e2f96a9ffca74_pdf_preview_medium.pdf#page=34",
+        "score": 0.0404,
+        "rank": 4
+      },
+      {
+        "id": "p21-c1",
+        "kind": "text",
+        "document": "SKF CLP Touch Lubrication Pump Assembly Instructions",
+        "document_no": "951-171-072-EN",
+        "version": "V07",
+        "section": "3.7.9 Displaying errors",
+        "page": 21,
+        "text": "e error. Active errors are displayed in red. The error display and the screensaver with error will alternate every 3 seconds. After 2 minutes, the display switches permanently to the screensaver with error. To acknowledge an error, proceed as follows: 1. Eliminate the cause of the error. The cause of the error is shown on the display. 2. To exit the screensaver, drag the house icon to the right onto the double arrow icon. 3. To acknowledge the error, drag the confirm icon to the left onto the double arrow icon. The pump will switch over to the start display. Fig. 14 Acknowledging errors",
+        "ko_fact": "",
+        "pdf_link": "https://cdn.skfmediahub.skf.com/api/public/094e2f96a9ffca74/pdf_preview_medium/094e2f96a9ffca74_pdf_preview_medium.pdf#page=21",
+        "score": 0.0398,
+        "rank": 5
+      }
+    ],
+    "citations": []
+  },
+  "temperature_demo": {
+    "values": [
+      65,
+      67,
+      68,
+      72
+    ],
+    "threshold": 70,
+    "source": "synthetic temperature; manual factory shutdown setting",
+    "rag": {
+      "query": "펌프 온도가 허용 최고 온도 70 초과 maximum permissible temperature cool down",
+      "supported": true,
+      "mode": "retrieval + grounded template (no LLM)",
+      "answer": "펌프 온도가 허용 최고 온도를 넘으면 펌프를 냉각한다. 온도가 차단 온도 아래로 내려가면 오류를 확인(acknowledge)하고 재설정할 수 있다. 공장 설정은 70 °C이다.",
+      "hits": [
+        {
+          "id": "fault-7",
+          "kind": "fault_row",
+          "document": "SKF CLP Touch Lubrication Pump Assembly Instructions",
+          "document_no": "951-171-072-EN",
+          "version": "V07",
+          "section": "11 Faults, causes, and remedies - Table 18",
+          "page": 52,
+          "text": "Fault: The temperature of the pump went above the maximum permissible temperature. Possible causes: The temperature of the pump went above the maximum permissible temperature. Remedies: Let the pump cool down. When the temperature falls below the shut-down temperature, the error can be acknowledged and reset. The factory setting is 70 °C.",
+          "fault": "The temperature of the pump went above the maximum permissible temperature",
+          "causes": [
+            "The temperature of the pump went above the maximum permissible temperature"
+          ],
+          "remedies": [
+            "Let the pump cool down. When the temperature falls below the shut-down temperature, the error can be acknowledged and reset. The factory setting is 70 °C."
+          ],
+          "ko_fact": "펌프 온도가 허용 최고 온도를 넘으면 펌프를 냉각한다. 온도가 차단 온도 아래로 내려가면 오류를 확인(acknowledge)하고 재설정할 수 있다. 공장 설정은 70 °C이다.",
+          "pdf_link": "https://cdn.skfmediahub.skf.com/api/public/094e2f96a9ffca74/pdf_preview_medium/094e2f96a9ffca74_pdf_preview_medium.pdf#page=52",
+          "score": 0.6532,
+          "rank": 1
+        },
+        {
+          "id": "fault-8",
+          "kind": "fault_row",
+          "document": "SKF CLP Touch Lubrication Pump Assembly Instructions",
+          "document_no": "951-171-072-EN",
+          "version": "V07",
+          "section": "11 Faults, causes, and remedies - Table 18",
+          "page": 52,
+          "text": "Fault: The temperature of the pump went below the minimum permissible temperature. Possible causes: The temperature of the pump went below the minimum permissible temperature. Remedies: Let the pump warm up. The error resets itself when the temperature goes back over the shut-down temperature.",
+          "fault": "The temperature of the pump went below the minimum permissible temperature",
+          "causes": [
+            "The temperature of the pump went below the minimum permissible temperature"
+          ],
+          "remedies": [
+            "Let the pump warm up. The error resets itself when the temperature goes back over the shut-down temperature."
+          ],
+          "ko_fact": "펌프 온도가 허용 최저 온도 아래로 내려가면 펌프를 따뜻하게 한다. 온도가 차단 온도를 다시 넘으면 오류가 자동으로 재설정된다.",
+          "pdf_link": "https://cdn.skfmediahub.skf.com/api/public/094e2f96a9ffca74/pdf_preview_medium/094e2f96a9ffca74_pdf_preview_medium.pdf#page=52",
+          "score": 0.2596,
+          "rank": 2
+        },
+        {
+          "id": "p70-c0",
+          "kind": "text",
+          "document": "SKF CLP Touch Lubrication Pump Assembly Instructions",
+          "document_no": "951-171-072-EN",
+          "version": "V07",
+          "section": "15.10 China RoHS Table",
+          "page": 70,
+          "text": "70 Notes / Notizen / Apuntes",
+          "ko_fact": "",
+          "pdf_link": "https://cdn.skfmediahub.skf.com/api/public/094e2f96a9ffca74/pdf_preview_medium/094e2f96a9ffca74_pdf_preview_medium.pdf#page=70",
+          "score": 0.217,
+          "rank": 3
+        },
+        {
+          "id": "p36-c0",
+          "kind": "text",
+          "document": "SKF CLP Touch Lubrication Pump Assembly Instructions",
+          "document_no": "951-171-072-EN",
+          "version": "V07",
+          "section": "4 Technical data",
+          "page": 36,
+          "text": "36 4 Technical data Table 8 General technical data Operating pressure Max. 270 bar Mounting position2) Vertical Ambient temperature1) -25 °C to 65 °C Sound pressure level < 70 dB (A) Pump elements Max. 2 Weight (empty) 5 kg Reservoir capacity3) 1 liter nominal Feedable lubricants Lubrication greases from NLGI 0 up to and including NLGI 2 Filling Filler nipple Filler coupling Cartridge filling Nominal delivery rate4) of the individual pump elements Pump element 5 6 7 R Delivery rate per stroke 0.10 0.16 0.22 0.04-0.18 ccm Delivery rate per minute 1.90 3.04 4.18 0.76-3.42 ccm Electrical data 12 VDC pump 24 VDC pump Rated voltage 12 VDC ± 10 % 24 VDC ± 10 % Current input, max. 4 A 3 A Recommended back-up fuse 4.0 A (slow) 3.0 A (slow) Nominal speed 19 rpm 19 rpm Enclosure ratings5) Pumps with Bayonet-plug IP69K (ISO 20653) Pumps with M12-plug IP67 (IEC 60529) 4x (Nema) Pumps with Rectangular connector IP65 (IEC 60529) 4x (Nema) Switched voltage of fault signal 10-30 V AC/DC Switched current, max. 500 mA Protection class of nominal voltage connection (IEC 61140) PELV Protection class of ",
+          "ko_fact": "",
+          "pdf_link": "https://cdn.skfmediahub.skf.com/api/public/094e2f96a9ffca74/pdf_preview_medium/094e2f96a9ffca74_pdf_preview_medium.pdf#page=36",
+          "score": 0.1872,
+          "rank": 4
+        },
+        {
+          "id": "p6-c1",
+          "kind": "text",
+          "document": "SKF CLP Touch Lubrication Pump Assembly Instructions",
+          "document_no": "951-171-072-EN",
+          "version": "V07",
+          "section": "9 Maintenance ................................................................................. 48",
+          "page": 6,
+          "text": "............................................................53 13 Shutdown, disposal ................................................................. 53 13.1 Temporary shutdown .......................................................53 13.2 Permanent shutdown, disassembly ...........................53 13.3 Disposal ................................................................................53 14 Spare parts and accessories ................................................ 54 14.1 Pump elements ...................................................................54 14.2 Pressure control valves 270 bar, plug-in type for tube Ø 6 .........................................................................................54 14.3 Pressure control valves 270 bar, screw-in type for tube Ø 6 .........................................................................................54 14.4 Adapter with filler nipple ................................................ 55 14.5 Closure screw ..................................................................... 55 14.6 Grease port, plug-in .............",
+          "ko_fact": "",
+          "pdf_link": "https://cdn.skfmediahub.skf.com/api/public/094e2f96a9ffca74/pdf_preview_medium/094e2f96a9ffca74_pdf_preview_medium.pdf#page=6",
+          "score": 0.1663,
+          "rank": 5
+        }
+      ],
+      "citations": [
+        "fault-7"
+      ]
+    }
+  },
+  "provenance": {
+    "dataset": "NASA IMS / University of Cincinnati / 2nd_test",
+    "url": "https://data.nasa.gov/dataset/ims-bearings",
+    "generated_at": "2026-10-30T01:58:11.063760+00:00",
+    "manual_sha256": "bb665ffc10dd5c773e5083f795feb81d176666fc39821088d3dc5ace6ce6d667",
+    "snapshot_count": 984,
+    "generation": "No LLM used. Hybrid TF-IDF retrieval with explicit scope guards."
+  }
+}
