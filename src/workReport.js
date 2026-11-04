@@ -39,10 +39,10 @@ export function buildWorkReport(asset,issue,record) {
     '',
     '4. 근거와 추가 확인',
     '추정 원인: '+asset.cause+' · 현장 확인 필요',
-    '참고: 예시 매뉴얼 '+asset.id+' §4.2 / 가상 사례 '+asset.group+'-2025-014',
+    '참고: 회전기계 가이드북 · 적용 여부 확인 필요',
     '원인 확정 여부와 조치 후 재측정 결과는 현장 확인이 필요합니다.',
     '',
-    '가상 설비 데이터 기반 프로토타입입니다. 실제로 기록된 조치만 반영했습니다.'
+    '시험 데이터 재생 기반 프로토타입입니다. 실제로 기록된 조치만 반영했습니다.'
   ].join('\n');
 }
 export function appliedReportProposal(record,at=new Date().toISOString()) {
